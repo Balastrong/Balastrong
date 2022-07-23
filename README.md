@@ -39,9 +39,9 @@ Let's stay in touch!
 
 1. 💪 Opened PR [#1339](https://github.com/microsoft/vscode-js-debug/pull/1339) in [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
 2. ❗️ Opened issue [#1338](https://github.com/microsoft/vscode-js-debug/issues/1338) in [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
-3. test
-4. test
-5. test
+3. 🗣 Commented on [#155718](https://github.com/microsoft/vscode/issues/155718) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#225](https://github.com/microsoft/vscode-wiki/issues/225) in [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki)
+5. 💪 Opened PR [#225](https://github.com/microsoft/vscode-wiki/pull/225) in [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki)
 <!--END_SECTION:activity-->
 
 <br />
