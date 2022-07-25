@@ -37,11 +37,11 @@ Let's stay in touch!
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1339](https://github.com/microsoft/vscode-js-debug/pull/1339) in [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
-2. ❗️ Opened issue [#1338](https://github.com/microsoft/vscode-js-debug/issues/1338) in [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
-3. 🗣 Commented on [#155718](https://github.com/microsoft/vscode/issues/155718) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#225](https://github.com/microsoft/vscode-wiki/issues/225) in [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki)
-5. 💪 Opened PR [#225](https://github.com/microsoft/vscode-wiki/pull/225) in [microsoft/vscode-wiki](https://github.com/microsoft/vscode-wiki)
+1. 🗣 Commented on [#284](https://github.com/MrWolfZ/ngrx-forms/issues/284) in [MrWolfZ/ngrx-forms](https://github.com/MrWolfZ/ngrx-forms)
+2. 🗣 Commented on [#1339](https://github.com/microsoft/vscode-js-debug/issues/1339) in [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
+3. ❗️ Closed issue [#1](https://github.com/Balastrong/normalize-duration/issues/1) in [Balastrong/normalize-duration](https://github.com/Balastrong/normalize-duration)
+4. 🗣 Commented on [#1](https://github.com/Balastrong/normalize-duration/issues/1) in [Balastrong/normalize-duration](https://github.com/Balastrong/normalize-duration)
+5. ❗️ Opened issue [#1](https://github.com/Balastrong/normalize-duration/issues/1) in [Balastrong/normalize-duration](https://github.com/Balastrong/normalize-duration)
 <!--END_SECTION:activity-->
 
 <br />
