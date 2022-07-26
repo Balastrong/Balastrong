@@ -1,8 +1,8 @@
 ## Hello, Leonardo here 👋
 
-I'm a full stack developer (mostly focued on frontend these days) and I like working on tools for developers.
+I'm a full stack developer (mostly focused on frontend these days) and I like working on tools for developers.
 
-You can find on GitHub my contribtions to public Javascript/Typescript based projects, but I also like C# and Scala.
+You can find on GitHub my contributions to public Javascript/Typescript based projects, but I also like C# and Scala.
 
 Let's stay in touch!
 
