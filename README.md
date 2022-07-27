@@ -56,18 +56,7 @@ Let's stay in touch!
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
-| White ⚪ | Black ⚫ | Result 🏆  | Date 📅  |
-|:---:|:---:|:---:|:---:|
-| **Balastrong** | YellowPyro | <span style="color: red">timeout</span> | 22/7/2022 |
-| Liebreartillera | **Balastrong** | <span style="color: red">checkmated</span> | 22/7/2022 |
-| **Balastrong** | hector_fgs | <span style="color: red">timeout</span> | 22/7/2022 |
-| IAMADITYA7 | **Balastrong** | <span style="color: green">win</span> | 22/7/2022 |
-| heriompus | **Balastrong** | <span style="color: gray">stalemate</span> | 19/7/2022 |
-| **Balastrong** | eros1909 | <span style="color: green">win</span> | 18/7/2022 |
-| **Balastrong** | KayHens13 | <span style="color: red">resigned</span> | 18/7/2022 |
-| **Balastrong** | gaoxadrez | <span style="color: green">win</span> | 18/7/2022 |
-| Kingtowmater | **Balastrong** | <span style="color: red">resigned</span> | 18/7/2022 |
-| 19honza82 | **Balastrong** | <span style="color: red">checkmated</span> | 18/7/2022 |
+test
 
 <!--END_SECTION:chessStats-->
 
