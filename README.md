@@ -58,16 +58,16 @@ Let's stay in touch!
 
 | White ⚪ | Black ⚫ | Result 🏆  | Date 📅  |
 |:---:|:---:|:---:|:---:|
+| **Balastrong** | Clashking123 | <span style="color: red">checkmated</span> | 27/7/2022 |
+| carlitodeliz | **Balastrong** | <span style="color: red">resigned</span> | 27/7/2022 |
+| johanjessan | **Balastrong** | <span style="color: green">win</span> | 27/7/2022 |
+| bparis4542 | **Balastrong** | <span style="color: green">win</span> | 27/7/2022 |
+| fouadkg | **Balastrong** | <span style="color: red">resigned</span> | 27/7/2022 |
+| **Balastrong** | Fermuniz13 | <span style="color: red">resigned</span> | 27/7/2022 |
+| **Balastrong** | cafer55 | <span style="color: red">checkmated</span> | 27/7/2022 |
+| **Balastrong** | Glitch_gram | <span style="color: red">resigned</span> | 27/7/2022 |
 | **Balastrong** | YellowPyro | <span style="color: red">timeout</span> | 22/7/2022 |
 | Liebreartillera | **Balastrong** | <span style="color: red">checkmated</span> | 22/7/2022 |
-| **Balastrong** | hector_fgs | <span style="color: red">timeout</span> | 22/7/2022 |
-| IAMADITYA7 | **Balastrong** | <span style="color: green">win</span> | 22/7/2022 |
-| heriompus | **Balastrong** | <span style="color: gray">stalemate</span> | 19/7/2022 |
-| **Balastrong** | eros1909 | <span style="color: green">win</span> | 18/7/2022 |
-| **Balastrong** | KayHens13 | <span style="color: red">resigned</span> | 18/7/2022 |
-| **Balastrong** | gaoxadrez | <span style="color: green">win</span> | 18/7/2022 |
-| Kingtowmater | **Balastrong** | <span style="color: red">resigned</span> | 18/7/2022 |
-| 19honza82 | **Balastrong** | <span style="color: red">checkmated</span> | 18/7/2022 |
 
 <!--END_SECTION:chessStats-->
 
