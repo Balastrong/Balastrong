@@ -42,11 +42,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#10](https://github.com/Balastrong/trello-card-numbers-plus/issues/10) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-2. 🎉 Merged PR [#13](https://github.com/Balastrong/trello-card-numbers-plus/pull/13) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-3. 🗣 Commented on [#11](https://github.com/Balastrong/trello-card-numbers-plus/issues/11) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-4. 🗣 Commented on [#152883](https://github.com/microsoft/vscode/issues/152883) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗️ Closed issue [#4](https://github.com/Balastrong/chess-stats-action/issues/4) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+2. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+3. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+4. ❗️ Opened issue [#6](https://github.com/Balastrong/chess-stats-action/issues/6) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+5. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
 <br/>
