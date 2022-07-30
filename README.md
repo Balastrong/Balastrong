@@ -56,18 +56,18 @@ Let's stay in touch!
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
-| White ⚪ | Black ⚫ | Result 🏆  | Date 📅  |
-|:---:|:---:|:---:|:---:|
-| **Balastrong** | Clashking123 | <span style="color: red">checkmated</span> | 27/7/2022 |
-| carlitodeliz | **Balastrong** | <span style="color: red">resigned</span> | 27/7/2022 |
-| johanjessan | **Balastrong** | <span style="color: green">win</span> | 27/7/2022 |
-| bparis4542 | **Balastrong** | <span style="color: green">win</span> | 27/7/2022 |
-| fouadkg | **Balastrong** | <span style="color: red">resigned</span> | 27/7/2022 |
-| **Balastrong** | Fermuniz13 | <span style="color: red">resigned</span> | 27/7/2022 |
-| **Balastrong** | cafer55 | <span style="color: red">checkmated</span> | 27/7/2022 |
-| **Balastrong** | Glitch_gram | <span style="color: red">resigned</span> | 27/7/2022 |
-| **Balastrong** | YellowPyro | <span style="color: red">timeout</span> | 22/7/2022 |
-| Liebreartillera | **Balastrong** | <span style="color: red">checkmated</span> | 22/7/2022 |
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **Balastrong** | Clashking123 | checkmated ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p5/1p6/1Pb1B2p/P7/6p1/7r/4R2K w - -">Link</a> |
+| carlitodeliz | **Balastrong** | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4r1/8/p4p1N/2p4P/6k1/1P1P1b2/P1P5/2K2R1R b - -">Link</a> |
+| johanjessan | **Balastrong** | win 🥇 | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp1qpp1/3p1n1p/4p3/2B1P3/4Q3/PPn2PPP/RN3RK1 w - -">Link</a> |
+| bparis4542 | **Balastrong** | win 🥇 | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k1p2/3p3p/2pP2p1/3b3P/1P4B1/1r3PP1/2R3K1 w - -">Link</a> |
+| fouadkg | **Balastrong** | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p1pq1ppp/1p1p1n2/nB1P4/1Q2P3/2N4N/PP3PPP/R1B1K2R b KQkq -">Link</a> |
+| **Balastrong** | Fermuniz13 | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1bnr/pkp1pppp/4q3/8/3P4/4NN2/PP3PPP/R1B1K2R w KQ -">Link</a> |
+| **Balastrong** | cafer55 | checkmated ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1p6/1P5p/4kbq1/7K/8 w - -">Link</a> |
+| **Balastrong** | Glitch_gram | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kb3R/4pB2/3pP1N1/3n4/7P/2p2PPK/1r6 b - -">Link</a> |
+| **Balastrong** | YellowPyro | timeout ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P2R4/4R1K1/8/5P2/4P3/4k3/6r1 w - -">Link</a> |
+| Liebreartillera | **Balastrong** | checkmated ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1ppqn1Qp/3b3P/6p1/2P2P2/p3P3/3N4/R3K2R b KQ -">Link</a> |
 
 <!--END_SECTION:chessStats-->
 
