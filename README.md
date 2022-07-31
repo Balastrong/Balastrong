@@ -42,10 +42,10 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. 💪 Opened PR [#16](https://github.com/rzashakeri/beautify-github-profile/pull/16) in [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 2. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 3. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-4. ❗️ Opened issue [#6](https://github.com/Balastrong/chess-stats-action/issues/6) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+4. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 5. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
