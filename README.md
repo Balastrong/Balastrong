@@ -47,9 +47,9 @@ Let's stay in touch!
 3. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 4. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 5. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-6. test
-7. test
-8. test
+6. ❗️ Opened issue [#6](https://github.com/Balastrong/chess-stats-action/issues/6) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+7. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+8. 💪 Opened PR [#35](https://github.com/ghoullier/awesome-template-literal-types/pull/35) in [ghoullier/awesome-template-literal-types](https://github.com/ghoullier/awesome-template-literal-types)
 
 <!--END_SECTION:activity-->
 <br/>
