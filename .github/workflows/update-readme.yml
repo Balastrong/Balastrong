@@ -18,6 +18,7 @@ jobs:
           MAX_LINES: '8'
   
   chess:
+    needs: activity
     name: Update chess.com stats and games
     runs-on: ubuntu-latest
     steps:
