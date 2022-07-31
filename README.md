@@ -46,7 +46,7 @@ Let's stay in touch!
 2. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 3. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 4. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-5. 🗣 Commented on [#5](https://github.com/Balastrong/chess-stats-action/issues/5) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+5. test
 6. test
 7. test
 8. test
