@@ -71,7 +71,7 @@ Let's stay in touch!
 | **Balastrong** | Glitch_gram | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kb3R/4pB2/3pP1N1/3n4/7P/2p2PPK/1r6 b - -">Link</a> |
 | **Balastrong** | YellowPyro | timeout ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P2R4/4R1K1/8/5P2/4P3/4k3/6r1 w - -">Link</a> |
 | Liebreartillera | **Balastrong** | checkmated ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1ppqn1Qp/3b3P/6p1/2P2P2/p3P3/3N4/R3K2R b KQ -">Link</a> |
-
+-
 <!--END_SECTION:chessStats-->
 
 <br />

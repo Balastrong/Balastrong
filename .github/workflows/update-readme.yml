@@ -15,7 +15,8 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: '8'
+        with:
+          MAX_LINES: 8
   
   chess:
     needs: activity
