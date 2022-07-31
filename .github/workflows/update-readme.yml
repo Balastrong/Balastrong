@@ -2,7 +2,7 @@ name: Update automated data on README.md
 
 on:
   schedule:
-    - cron: '0 19 * * *'
+    - cron: '0 0,12,19 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,13 +15,13 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: '10'
+          MAX_LINES: '8'
   
   chess:
     name: Update chess.com stats and games
     runs-on: ubuntu-latest
     steps:
-      #- uses: actions/checkout@v3
+      - uses: actions/checkout@v3
       - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: 'Balastrong'
