@@ -59,6 +59,11 @@ Let's stay in touch!
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
 
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|:---:|:---:|:---:|:---:|
+| Current | 1215 | 895 | 1115 |
+| Best | 1318 | 1345 | 1267 |
+
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ |
 |:---:|:---:|:---:|:---:|:---:|
 | **Balastrong** | Clashking123 | checkmated ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p5/1p6/1Pb1B2p/P7/6p1/7r/4R2K w - -">Link</a> |
@@ -72,10 +77,6 @@ Let's stay in touch!
 | **Balastrong** | YellowPyro | timeout ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P2R4/4R1K1/8/5P2/4P3/4k3/6r1 w - -">Link</a> |
 | Liebreartillera | **Balastrong** | checkmated ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1ppqn1Qp/3b3P/6p1/2P2P2/p3P3/3N4/R3K2R b KQ -">Link</a> |
 
-| Type | Rapid 🐢 | Blitz 🐇 | Bullet ⚡ |
-|:---:|:---:|:---:|:---:|
-| Current | 1215 | 895 | 1115 |
-| Best | 1318 | 1345 | 1267 |
 <!--END_SECTION:chessStats-->
 
 <br />
