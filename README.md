@@ -6,7 +6,7 @@ You can find on GitHub my contributions to public Javascript/Typescript based pr
 
 Let's stay in touch!
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/leonardo-montini/) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/6303541/balastrong) [![Youtube](https://img.shields.io/badge/-Youtube-red?logo=youtube&style=flat)](https://www.youtube.com/channel/UC-KqnO3ez7vF-kyIQ_22rdA) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/Balastrong)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?logo=youtube&style=flat)](https://www.youtube.com/channel/UC-KqnO3ez7vF-kyIQ_22rdA) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/Balastrong) [![Dev.to](https://img.shields.io/badge/-Dev.to-black?logo=devdotto&style=flat)](https://dev.to/balastrong) [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/leonardo-montini/) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?logo=stack-overflow&logoColor=white&style=flat)](https://stackoverflow.com/users/6303541/balastrong)
 
 <br/>
 
