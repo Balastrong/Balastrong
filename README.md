@@ -42,14 +42,14 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/Balastrong/chess-stats-action/issues/11) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-2. 🎉 Merged PR [#11](https://github.com/Balastrong/chess-stats-action/pull/11) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-3. 🗣 Commented on [#11](https://github.com/Balastrong/chess-stats-action/issues/11) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-4. 🎉 Merged PR [#10](https://github.com/Balastrong/chess-stats-action/pull/10) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-5. 💪 Opened PR [#10](https://github.com/Balastrong/chess-stats-action/pull/10) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-6. ❗️ Closed issue [#6](https://github.com/Balastrong/chess-stats-action/issues/6) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-7. 🎉 Merged PR [#9](https://github.com/Balastrong/chess-stats-action/pull/9) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-8. 💪 Opened PR [#9](https://github.com/Balastrong/chess-stats-action/pull/9) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. ❗️ Opened issue [#5](https://github.com/Balastrong/wrand/issues/5) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. ❗️ Opened issue [#4](https://github.com/Balastrong/wrand/issues/4) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+3. ❗️ Opened issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+4. ❗️ Opened issue [#2](https://github.com/Balastrong/wrand/issues/2) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+5. ❗️ Opened issue [#1](https://github.com/Balastrong/wrand/issues/1) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+6. 🗣 Commented on [#11](https://github.com/Balastrong/chess-stats-action/issues/11) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+7. 🎉 Merged PR [#11](https://github.com/Balastrong/chess-stats-action/pull/11) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+8. 🗣 Commented on [#11](https://github.com/Balastrong/chess-stats-action/issues/11) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
 <br/>
