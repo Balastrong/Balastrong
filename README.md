@@ -42,14 +42,14 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/Balastrong/wrand/pull/7) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-2. 💪 Opened PR [#7](https://github.com/Balastrong/wrand/pull/7) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-3. 🎉 Merged PR [#6](https://github.com/Balastrong/wrand/pull/6) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-4. 💪 Opened PR [#6](https://github.com/Balastrong/wrand/pull/6) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. ❗️ Opened issue [#5](https://github.com/Balastrong/wrand/issues/5) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-6. ❗️ Opened issue [#4](https://github.com/Balastrong/wrand/issues/4) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-7. ❗️ Opened issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-8. ❗️ Opened issue [#2](https://github.com/Balastrong/wrand/issues/2) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+1. 💪 Opened PR [#8](https://github.com/Balastrong/wrand/pull/8) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. 🎉 Merged PR [#7](https://github.com/Balastrong/wrand/pull/7) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+3. 💪 Opened PR [#7](https://github.com/Balastrong/wrand/pull/7) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+4. 🎉 Merged PR [#6](https://github.com/Balastrong/wrand/pull/6) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+5. 💪 Opened PR [#6](https://github.com/Balastrong/wrand/pull/6) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+6. ❗️ Opened issue [#5](https://github.com/Balastrong/wrand/issues/5) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+7. ❗️ Opened issue [#4](https://github.com/Balastrong/wrand/issues/4) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+8. ❗️ Opened issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 
 <!--END_SECTION:activity-->
 <br/>
