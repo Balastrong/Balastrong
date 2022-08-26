@@ -42,14 +42,14 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-2. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-3. 🎉 Merged PR [#12](https://github.com/Balastrong/wrand/pull/12) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-4. 💪 Opened PR [#12](https://github.com/Balastrong/wrand/pull/12) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. 🎉 Merged PR [#10](https://github.com/Balastrong/wrand/pull/10) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-6. 💪 Opened PR [#10](https://github.com/Balastrong/wrand/pull/10) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-7. ❗️ Closed issue [#5](https://github.com/Balastrong/wrand/issues/5) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-8. 🎉 Merged PR [#9](https://github.com/Balastrong/wrand/pull/9) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+1. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. ❗️ Closed issue [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+3. ❗️ Closed issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+4. 🎉 Merged PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+5. 💪 Opened PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+6. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+7. 🎉 Merged PR [#12](https://github.com/Balastrong/wrand/pull/12) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+8. 💪 Opened PR [#12](https://github.com/Balastrong/wrand/pull/12) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 
 <!--END_SECTION:activity-->
 <br/>
