@@ -42,13 +42,13 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#14](https://github.com/Balastrong/wrand/issues/14) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-2. 🗣 Commented on [#2](https://github.com/Balastrong/wrand/issues/2) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-3. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-4. ❗️ Closed issue [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. ❗️ Closed issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-6. 🎉 Merged PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-7. 💪 Opened PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+1. ❗️ Closed issue [#15](https://github.com/Balastrong/wrand/issues/15) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. 🎉 Merged PR [#16](https://github.com/Balastrong/wrand/pull/16) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+3. 💪 Opened PR [#16](https://github.com/Balastrong/wrand/pull/16) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+4. 🗣 Commented on [#14](https://github.com/Balastrong/wrand/issues/14) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+5. ❗️ Opened issue [#15](https://github.com/Balastrong/wrand/issues/15) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+6. 🗣 Commented on [#14](https://github.com/Balastrong/wrand/issues/14) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+7. 🗣 Commented on [#2](https://github.com/Balastrong/wrand/issues/2) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 8. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 
 <!--END_SECTION:activity-->
