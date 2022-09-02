@@ -42,14 +42,14 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-2. ❗️ Closed issue [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-3. ❗️ Closed issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-4. 🎉 Merged PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. 💪 Opened PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-6. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-7. 🎉 Merged PR [#12](https://github.com/Balastrong/wrand/pull/12) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-8. 💪 Opened PR [#12](https://github.com/Balastrong/wrand/pull/12) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+1. 🗣 Commented on [#14](https://github.com/Balastrong/wrand/issues/14) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. 🗣 Commented on [#2](https://github.com/Balastrong/wrand/issues/2) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+3. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+4. ❗️ Closed issue [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+5. ❗️ Closed issue [#3](https://github.com/Balastrong/wrand/issues/3) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+6. 🎉 Merged PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+7. 💪 Opened PR [#13](https://github.com/Balastrong/wrand/pull/13) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+8. 🗣 Commented on [#11](https://github.com/Balastrong/wrand/issues/11) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 
 <!--END_SECTION:activity-->
 <br/>
