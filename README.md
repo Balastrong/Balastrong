@@ -42,11 +42,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#156282](https://github.com/microsoft/vscode/pull/156282) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🎉 Merged PR [#1](https://github.com/Balastrong/Balastrong/pull/1) in [Balastrong/Balastrong](https://github.com/Balastrong/Balastrong)
-3. 🗣 Commented on [#1](https://github.com/Balastrong/Balastrong/issues/1) in [Balastrong/Balastrong](https://github.com/Balastrong/Balastrong)
-4. 🗣 Commented on [#284](https://github.com/MrWolfZ/ngrx-forms/issues/284) in [MrWolfZ/ngrx-forms](https://github.com/MrWolfZ/ngrx-forms)
-5. 🗣 Commented on [#1339](https://github.com/microsoft/vscode-js-debug/issues/1339) in [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug)
+1. ❗️ Closed issue [#2](https://github.com/Balastrong/wrand/issues/2) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. 🎉 Merged PR [#14](https://github.com/Balastrong/wrand/pull/14) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+3. ❗️ Opened issue [#17](https://github.com/Balastrong/wrand/issues/17) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+4. ❗️ Closed issue [#15](https://github.com/Balastrong/wrand/issues/15) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+5. 🎉 Merged PR [#16](https://github.com/Balastrong/wrand/pull/16) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 
 <!--END_SECTION:activity-->
 <br/>
