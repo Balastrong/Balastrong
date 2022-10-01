@@ -42,11 +42,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1386](https://github.com/colinhacks/zod/issues/1386) in [colinhacks/zod](https://github.com/colinhacks/zod)
-2. ❗️ Closed issue [#17](https://github.com/Balastrong/wrand/issues/17) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-3. 🎉 Merged PR [#18](https://github.com/Balastrong/wrand/pull/18) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-4. 💪 Opened PR [#18](https://github.com/Balastrong/wrand/pull/18) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. 🗣 Commented on [#12](https://github.com/Balastrong/chess-stats-action/issues/12) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. 🗣 Commented on [#555](https://github.com/OpenBeta/open-tacos/issues/555) in [OpenBeta/open-tacos](https://github.com/OpenBeta/open-tacos)
+2. 💪 Opened PR [#560](https://github.com/OpenBeta/open-tacos/pull/560) in [OpenBeta/open-tacos](https://github.com/OpenBeta/open-tacos)
+3. 💪 Opened PR [#104](https://github.com/Icon-Shelf/icon-shelf/pull/104) in [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf)
+4. 💪 Opened PR [#11](https://github.com/vczb/sagu-ui/pull/11) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+5. ❗️ Opened issue [#10](https://github.com/vczb/sagu-ui/issues/10) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
 
 <!--END_SECTION:activity-->
 <br/>
