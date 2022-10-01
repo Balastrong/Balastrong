@@ -42,11 +42,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#555](https://github.com/OpenBeta/open-tacos/issues/555) in [OpenBeta/open-tacos](https://github.com/OpenBeta/open-tacos)
-2. 💪 Opened PR [#560](https://github.com/OpenBeta/open-tacos/pull/560) in [OpenBeta/open-tacos](https://github.com/OpenBeta/open-tacos)
-3. 💪 Opened PR [#104](https://github.com/Icon-Shelf/icon-shelf/pull/104) in [Icon-Shelf/icon-shelf](https://github.com/Icon-Shelf/icon-shelf)
-4. 💪 Opened PR [#11](https://github.com/vczb/sagu-ui/pull/11) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
-5. ❗️ Opened issue [#10](https://github.com/vczb/sagu-ui/issues/10) in [vczb/sagu-ui](https://github.com/vczb/sagu-ui)
+1. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+2. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+3. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+4. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+5. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 
 <!--END_SECTION:activity-->
 <br/>
