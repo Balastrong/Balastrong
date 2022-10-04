@@ -42,9 +42,9 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-2. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-3. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 🗣 Commented on [#162611](https://github.com/microsoft/vscode/issues/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 💪 Opened PR [#162611](https://github.com/microsoft/vscode/pull/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💪 Opened PR [#58](https://github.com/italia-opensource/awesome-italia-opensource/pull/58) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
 4. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 5. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
 
