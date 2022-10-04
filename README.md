@@ -15,6 +15,7 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
