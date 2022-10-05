@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#162611](https://github.com/microsoft/vscode/issues/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💪 Opened PR [#162611](https://github.com/microsoft/vscode/pull/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💪 Opened PR [#58](https://github.com/italia-opensource/awesome-italia-opensource/pull/58) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
-4. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
-5. 🗣 Commented on [#193](https://github.com/Dun-sin/Code-Magic/issues/193) in [Dun-sin/Code-Magic](https://github.com/Dun-sin/Code-Magic)
+1. 🎉 Merged PR [#14](https://github.com/Balastrong/chess-stats-action/pull/14) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+2. 🗣 Commented on [#14](https://github.com/Balastrong/chess-stats-action/issues/14) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+3. 🗣 Commented on [#162611](https://github.com/microsoft/vscode/issues/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 💪 Opened PR [#162611](https://github.com/microsoft/vscode/pull/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💪 Opened PR [#58](https://github.com/italia-opensource/awesome-italia-opensource/pull/58) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
 
 <!--END_SECTION:activity-->
 <br/>
