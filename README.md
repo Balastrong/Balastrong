@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/Balastrong/chess-stats-action/pull/14) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-2. 🗣 Commented on [#14](https://github.com/Balastrong/chess-stats-action/issues/14) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-3. 🗣 Commented on [#162611](https://github.com/microsoft/vscode/issues/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 💪 Opened PR [#162611](https://github.com/microsoft/vscode/pull/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 💪 Opened PR [#58](https://github.com/italia-opensource/awesome-italia-opensource/pull/58) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
+1. 🎉 Merged PR [#16](https://github.com/Balastrong/chess-stats-action/pull/16) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+2. 💪 Opened PR [#16](https://github.com/Balastrong/chess-stats-action/pull/16) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+3. 🎉 Merged PR [#15](https://github.com/Balastrong/chess-stats-action/pull/15) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+4. 💪 Opened PR [#15](https://github.com/Balastrong/chess-stats-action/pull/15) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+5. 🎉 Merged PR [#14](https://github.com/Balastrong/chess-stats-action/pull/14) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
 <br/>
