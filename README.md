@@ -15,12 +15,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Win The Hacktoberfest 2022 T-Shirt!](https://ytcards.demolab.com/?id=aIt2WwzsfUA&title=Win+The+Hacktoberfest+2022+T-Shirt%21&timestamp=1665237095&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=39 "Win The Hacktoberfest 2022 T-Shirt!")](https://www.youtube.com/watch?v=aIt2WwzsfUA)
 [![What is a Code Smell and why you should worry about it](https://ytcards.demolab.com/?id=RFqRfppOlf4&title=What+is+a+Code+Smell+and+why+you+should+worry+about+it&timestamp=1665147614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=338 "What is a Code Smell and why you should worry about it")](https://www.youtube.com/watch?v=RFqRfppOlf4)
 [![What is a code smell? Coming soon!](https://ytcards.demolab.com/?id=I-GyZ7L_hio&title=What+is+a+code+smell%3F+Coming+soon%21&timestamp=1665088055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=17 "What is a code smell? Coming soon!")](https://www.youtube.com/watch?v=I-GyZ7L_hio)
 [![Not feeling ready for Open Source?](https://ytcards.demolab.com/?id=kIsBsFPAZQk&title=Not+feeling+ready+for+Open+Source%3F&timestamp=1664888434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=272 "Not feeling ready for Open Source?")](https://www.youtube.com/watch?v=kIsBsFPAZQk)
 [![5+1 Basic GIT Commands you Need for Hacktoberfest 2022](https://ytcards.demolab.com/?id=hTeHtkpTvqI&title=5%2B1+Basic+GIT+Commands+you+Need+for+Hacktoberfest+2022&timestamp=1664550030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=343 "5+1 Basic GIT Commands you Need for Hacktoberfest 2022")](https://www.youtube.com/watch?v=hTeHtkpTvqI)
 [![Spot the Code Smell #07 - Inconsistent Naming](https://ytcards.demolab.com/?id=LNl-rwI3Q1I&title=Spot+the+Code+Smell+%2307+-+Inconsistent+Naming&timestamp=1664456411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=39 "Spot the Code Smell #07 - Inconsistent Naming")](https://www.youtube.com/watch?v=LNl-rwI3Q1I)
-[![Making a Banana with Javascript!](https://ytcards.demolab.com/?id=V2Zr-3MqQkI&title=Making+a+Banana+with+Javascript%21&timestamp=1664370030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=30 "Making a Banana with Javascript!")](https://www.youtube.com/watch?v=V2Zr-3MqQkI)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
