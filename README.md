@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#258](https://github.com/FrancescoXX/4c-site/pull/258) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-2. 🎉 Merged PR [#16](https://github.com/Balastrong/chess-stats-action/pull/16) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-3. 💪 Opened PR [#16](https://github.com/Balastrong/chess-stats-action/pull/16) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-4. 🎉 Merged PR [#15](https://github.com/Balastrong/chess-stats-action/pull/15) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-5. 💪 Opened PR [#15](https://github.com/Balastrong/chess-stats-action/pull/15) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. 🗣 Commented on [#261](https://github.com/FrancescoXX/4c-site/issues/261) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+2. 🗣 Commented on [#260](https://github.com/FrancescoXX/4c-site/issues/260) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+3. 💪 Opened PR [#258](https://github.com/FrancescoXX/4c-site/pull/258) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+4. 🎉 Merged PR [#16](https://github.com/Balastrong/chess-stats-action/pull/16) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+5. 💪 Opened PR [#16](https://github.com/Balastrong/chess-stats-action/pull/16) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
 <br/>
