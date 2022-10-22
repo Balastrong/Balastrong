@@ -15,12 +15,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How to use GIT Alias - Shortcuts to Boost your Productivity](https://ytcards.demolab.com/?id=Uk4GnYoQx_I&title=How+to+use+GIT+Alias+-+Shortcuts+to+Boost+your+Productivity&lang=en&timestamp=1666440134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=315 "How to use GIT Alias - Shortcuts to Boost your Productivity")](https://www.youtube.com/watch?v=Uk4GnYoQx_I)
 [![Spot the Code Smell #08 - String Interpolation](https://ytcards.demolab.com/?id=aWTGuQofv6A&title=Spot+the+Code+Smell+%2308+-+String+Interpolation&lang=en&timestamp=1666108802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=32 "Spot the Code Smell #08 - String Interpolation")](https://www.youtube.com/watch?v=aWTGuQofv6A)
 [![Open Visual Studio Code from the Terminal](https://ytcards.demolab.com/?id=oUHlR_ouEAA&title=Open+Visual+Studio+Code+from+the+Terminal&lang=en&timestamp=1665752429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=42 "Open Visual Studio Code from the Terminal")](https://www.youtube.com/watch?v=oUHlR_ouEAA)
 [![How to contribute to Visual Studio Code](https://ytcards.demolab.com/?id=W_xau3w4GJo&title=How+to+contribute+to+Visual+Studio+Code&lang=en&timestamp=1665561614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=472 "How to contribute to Visual Studio Code")](https://www.youtube.com/watch?v=W_xau3w4GJo)
 [![Win The Hacktoberfest 2022 T-Shirt!](https://ytcards.demolab.com/?id=aIt2WwzsfUA&title=Win+The+Hacktoberfest+2022+T-Shirt%21&lang=en&timestamp=1665237095&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=39 "Win The Hacktoberfest 2022 T-Shirt!")](https://www.youtube.com/watch?v=aIt2WwzsfUA)
 [![What is a Code Smell and why you should worry about it](https://ytcards.demolab.com/?id=RFqRfppOlf4&title=What+is+a+Code+Smell+and+why+you+should+worry+about+it&lang=en&timestamp=1665147614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=338 "What is a Code Smell and why you should worry about it")](https://www.youtube.com/watch?v=RFqRfppOlf4)
-[![What is a code smell? Coming soon!](https://ytcards.demolab.com/?id=I-GyZ7L_hio&title=What+is+a+code+smell%3F+Coming+soon%21&lang=en&timestamp=1665088055&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=17 "What is a code smell? Coming soon!")](https://www.youtube.com/watch?v=I-GyZ7L_hio)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
