@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#260](https://github.com/FrancescoXX/4c-site/issues/260) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-2. 🗣 Commented on [#260](https://github.com/FrancescoXX/4c-site/issues/260) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-3. 🗣 Commented on [#261](https://github.com/FrancescoXX/4c-site/issues/261) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-4. 🗣 Commented on [#260](https://github.com/FrancescoXX/4c-site/issues/260) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
-5. 💪 Opened PR [#258](https://github.com/FrancescoXX/4c-site/pull/258) in [FrancescoXX/4c-site](https://github.com/FrancescoXX/4c-site)
+1. 💪 Opened PR [#19](https://github.com/Balastrong/wrand/pull/19) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. 🗣 Commented on [#20](https://github.com/Balastrong/chess-stats-action/issues/20) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+3. 🗣 Commented on [#20](https://github.com/Balastrong/chess-stats-action/issues/20) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+4. ❗️ Opened issue [#20](https://github.com/Balastrong/chess-stats-action/issues/20) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+5. 🗣 Commented on [#19](https://github.com/Balastrong/chess-stats-action/issues/19) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
 <br/>
