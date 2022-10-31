@@ -15,12 +15,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Halloween Theme on GitHub](https://ytcards.demolab.com/?id=Th7CqK0ZrtY&title=Halloween+Theme+on+GitHub&lang=en&timestamp=1667212512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=17 "Halloween Theme on GitHub")](https://www.youtube.com/watch?v=Th7CqK0ZrtY)
 [![Test Regex without leaving Visual Studio Code with this Extension](https://ytcards.demolab.com/?id=VoocMOGUtas&title=Test+Regex+without+leaving+Visual+Studio+Code+with+this+Extension&lang=en&timestamp=1666892523&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=36 "Test Regex without leaving Visual Studio Code with this Extension")](https://www.youtube.com/watch?v=VoocMOGUtas)
 [![Learn 10x more from Tutorials](https://ytcards.demolab.com/?id=NOf36Yv-lws&title=Learn+10x+more+from+Tutorials&lang=en&timestamp=1666728297&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=61 "Learn 10x more from Tutorials")](https://www.youtube.com/watch?v=NOf36Yv-lws)
 [![Spot the Code Smell #09 - Indentation](https://ytcards.demolab.com/?id=Qj6_wnW4UAo&title=Spot+the+Code+Smell+%2309+-+Indentation&lang=en&timestamp=1666710014&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "Spot the Code Smell #09 - Indentation")](https://www.youtube.com/watch?v=Qj6_wnW4UAo)
 [![GIT Alias Tutorial in 5 Minutes!](https://ytcards.demolab.com/?id=Uk4GnYoQx_I&title=GIT+Alias+Tutorial+in+5+Minutes%21&lang=en&timestamp=1666440134&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=315 "GIT Alias Tutorial in 5 Minutes!")](https://www.youtube.com/watch?v=Uk4GnYoQx_I)
 [![Spot the Code Smell #08 - String Interpolation](https://ytcards.demolab.com/?id=aWTGuQofv6A&title=Spot+the+Code+Smell+%2308+-+String+Interpolation&lang=en&timestamp=1666108802&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=32 "Spot the Code Smell #08 - String Interpolation")](https://www.youtube.com/watch?v=aWTGuQofv6A)
-[![Open Visual Studio Code from the Terminal](https://ytcards.demolab.com/?id=oUHlR_ouEAA&title=Open+Visual+Studio+Code+from+the+Terminal&lang=en&timestamp=1665752429&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=42 "Open Visual Studio Code from the Terminal")](https://www.youtube.com/watch?v=oUHlR_ouEAA)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
