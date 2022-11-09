@@ -52,10 +52,10 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/claranet-it/study-gallery/pull/4) in [claranet-it/study-gallery](https://github.com/claranet-it/study-gallery)
-2. 💪 Opened PR [#4](https://github.com/sindresorhus/decamelize-keys/pull/4) in [sindresorhus/decamelize-keys](https://github.com/sindresorhus/decamelize-keys)
-3. 💪 Opened PR [#19](https://github.com/Balastrong/wrand/pull/19) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-4. 🗣 Commented on [#20](https://github.com/Balastrong/chess-stats-action/issues/20) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. ❌ Closed PR [#19](https://github.com/Balastrong/wrand/pull/19) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
+2. 💪 Opened PR [#4](https://github.com/claranet-it/study-gallery/pull/4) in [claranet-it/study-gallery](https://github.com/claranet-it/study-gallery)
+3. 💪 Opened PR [#4](https://github.com/sindresorhus/decamelize-keys/pull/4) in [sindresorhus/decamelize-keys](https://github.com/sindresorhus/decamelize-keys)
+4. 💪 Opened PR [#19](https://github.com/Balastrong/wrand/pull/19) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 5. 🗣 Commented on [#20](https://github.com/Balastrong/chess-stats-action/issues/20) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
