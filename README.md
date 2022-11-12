@@ -15,12 +15,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Live Coding on Open Source Projects](https://ytcards.demolab.com/?id=qSjqmRsPpDc&title=Live+Coding+on+Open+Source+Projects&lang=en&timestamp=1668261566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1092 "Live Coding on Open Source Projects")](https://www.youtube.com/watch?v=qSjqmRsPpDc)
 [![Your First Pull Request with GitHub Desktop](https://ytcards.demolab.com/?id=8x6V5IOuXog&title=Your+First+Pull+Request+with+GitHub+Desktop&lang=en&timestamp=1668078005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=235 "Your First Pull Request with GitHub Desktop")](https://www.youtube.com/watch?v=8x6V5IOuXog)
 [![Manual gets shorter with tldr](https://ytcards.demolab.com/?id=8uz1P2NRbOk&title=Manual+gets+shorter+with+tldr&lang=en&timestamp=1667916004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=25 "Manual gets shorter with tldr")](https://www.youtube.com/watch?v=8uz1P2NRbOk)
 [![Hacktoberfest is over, what to do next?](https://ytcards.demolab.com/?id=CdnGHI_0IR0&title=Hacktoberfest+is+over%2C+what+to+do+next%3F&lang=en&timestamp=1667487488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=13 "Hacktoberfest is over, what to do next?")](https://www.youtube.com/watch?v=CdnGHI_0IR0)
 [![Request Changes (Suggestions) on GitHub](https://ytcards.demolab.com/?id=rCARUlE2C0M&title=Request+Changes+%28Suggestions%29+on+GitHub&lang=en&timestamp=1667397622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=42 "Request Changes (Suggestions) on GitHub")](https://www.youtube.com/watch?v=rCARUlE2C0M)
 [![4 Beginners GitHub features you should know](https://ytcards.demolab.com/?id=G6x-gUD409U&title=4+Beginners+GitHub+features+you+should+know&lang=en&timestamp=1667224810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=220 "4 Beginners GitHub features you should know")](https://www.youtube.com/watch?v=G6x-gUD409U)
-[![Halloween Theme on GitHub](https://ytcards.demolab.com/?id=Th7CqK0ZrtY&title=Halloween+Theme+on+GitHub&lang=en&timestamp=1667212512&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=17 "Halloween Theme on GitHub")](https://www.youtube.com/watch?v=Th7CqK0ZrtY)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
