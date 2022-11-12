@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#19](https://github.com/Balastrong/wrand/pull/19) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-2. 💪 Opened PR [#4](https://github.com/claranet-it/study-gallery/pull/4) in [claranet-it/study-gallery](https://github.com/claranet-it/study-gallery)
-3. 💪 Opened PR [#4](https://github.com/sindresorhus/decamelize-keys/pull/4) in [sindresorhus/decamelize-keys](https://github.com/sindresorhus/decamelize-keys)
-4. 💪 Opened PR [#19](https://github.com/Balastrong/wrand/pull/19) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. 🗣 Commented on [#20](https://github.com/Balastrong/chess-stats-action/issues/20) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. ❗️ Opened issue [#18](https://github.com/Balastrong/trello-card-numbers-plus/issues/18) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+2. ❗️ Opened issue [#17](https://github.com/Balastrong/trello-card-numbers-plus/issues/17) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+3. ❗️ Opened issue [#16](https://github.com/Balastrong/trello-card-numbers-plus/issues/16) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+4. ❗️ Closed issue [#14](https://github.com/Balastrong/trello-card-numbers-plus/issues/14) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+5. 🎉 Merged PR [#15](https://github.com/Balastrong/trello-card-numbers-plus/pull/15) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
 
 <!--END_SECTION:activity-->
 <br/>
