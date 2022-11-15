@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#14](https://github.com/Balastrong/blog/issues/14) in [Balastrong/blog](https://github.com/Balastrong/blog)
-2. ❗️ Closed issue [#10](https://github.com/Balastrong/blog/issues/10) in [Balastrong/blog](https://github.com/Balastrong/blog)
-3. ❗️ Opened issue [#13](https://github.com/Balastrong/blog/issues/13) in [Balastrong/blog](https://github.com/Balastrong/blog)
-4. ❗️ Opened issue [#12](https://github.com/Balastrong/blog/issues/12) in [Balastrong/blog](https://github.com/Balastrong/blog)
-5. ❗️ Opened issue [#11](https://github.com/Balastrong/blog/issues/11) in [Balastrong/blog](https://github.com/Balastrong/blog)
+1. ❗️ Opened issue [#16](https://github.com/Balastrong/blog/issues/16) in [Balastrong/blog](https://github.com/Balastrong/blog)
+2. ❗️ Opened issue [#15](https://github.com/Balastrong/blog/issues/15) in [Balastrong/blog](https://github.com/Balastrong/blog)
+3. ❗️ Closed issue [#5](https://github.com/Balastrong/blog/issues/5) in [Balastrong/blog](https://github.com/Balastrong/blog)
+4. ❗️ Opened issue [#14](https://github.com/Balastrong/blog/issues/14) in [Balastrong/blog](https://github.com/Balastrong/blog)
+5. ❗️ Closed issue [#10](https://github.com/Balastrong/blog/issues/10) in [Balastrong/blog](https://github.com/Balastrong/blog)
 
 <!--END_SECTION:activity-->
 <br/>
