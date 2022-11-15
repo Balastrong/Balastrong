@@ -15,12 +15,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Live Coding on Open Source Projects - Trello Cards Numbers Plus](https://ytcards.demolab.com/?id=nlWqLxz9ZQA&title=Live+Coding+on+Open+Source+Projects+-+Trello+Cards+Numbers+Plus&lang=en&timestamp=1668261500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=0 "Live Coding on Open Source Projects - Trello Cards Numbers Plus")](https://www.youtube.com/watch?v=nlWqLxz9ZQA)
 [![GitHub Command Palette to navigate faster!](https://ytcards.demolab.com/?id=dF7WmJhd-GM&title=GitHub+Command+Palette+to+navigate+faster%21&lang=en&timestamp=1668427226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=48 "GitHub Command Palette to navigate faster!")](https://www.youtube.com/watch?v=dF7WmJhd-GM)
 [![Live Coding on Open Source Projects - Trello Chrome Extension](https://ytcards.demolab.com/?id=qSjqmRsPpDc&title=Live+Coding+on+Open+Source+Projects+-+Trello+Chrome+Extension&lang=en&timestamp=1668261566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1092 "Live Coding on Open Source Projects - Trello Chrome Extension")](https://www.youtube.com/watch?v=qSjqmRsPpDc)
 [![Your First Pull Request with GitHub Desktop](https://ytcards.demolab.com/?id=8x6V5IOuXog&title=Your+First+Pull+Request+with+GitHub+Desktop&lang=en&timestamp=1668078005&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=235 "Your First Pull Request with GitHub Desktop")](https://www.youtube.com/watch?v=8x6V5IOuXog)
 [![Manual gets shorter with tldr](https://ytcards.demolab.com/?id=8uz1P2NRbOk&title=Manual+gets+shorter+with+tldr&lang=en&timestamp=1667916004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=25 "Manual gets shorter with tldr")](https://www.youtube.com/watch?v=8uz1P2NRbOk)
 [![Hacktoberfest is over, what to do next?](https://ytcards.demolab.com/?id=CdnGHI_0IR0&title=Hacktoberfest+is+over%2C+what+to+do+next%3F&lang=en&timestamp=1667487488&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=13 "Hacktoberfest is over, what to do next?")](https://www.youtube.com/watch?v=CdnGHI_0IR0)
-[![Request Changes (Suggestions) on GitHub](https://ytcards.demolab.com/?id=rCARUlE2C0M&title=Request+Changes+%28Suggestions%29+on+GitHub&lang=en&timestamp=1667397622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=42 "Request Changes (Suggestions) on GitHub")](https://www.youtube.com/watch?v=rCARUlE2C0M)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
