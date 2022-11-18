@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#1](https://github.com/Balastrong/blog/issues/1) in [Balastrong/blog](https://github.com/Balastrong/blog)
-2. ❗️ Closed issue [#3](https://github.com/Balastrong/blog/issues/3) in [Balastrong/blog](https://github.com/Balastrong/blog)
-3. 🎉 Merged PR [#19](https://github.com/Balastrong/trello-card-numbers-plus/pull/19) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-4. 💪 Opened PR [#19](https://github.com/Balastrong/trello-card-numbers-plus/pull/19) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-5. ❗️ Opened issue [#16](https://github.com/Balastrong/blog/issues/16) in [Balastrong/blog](https://github.com/Balastrong/blog)
+1. ❗️ Opened issue [#12](https://github.com/dillionmegida/gatsby-remark-liquid-tags/issues/12) in [dillionmegida/gatsby-remark-liquid-tags](https://github.com/dillionmegida/gatsby-remark-liquid-tags)
+2. ❗️ Closed issue [#1](https://github.com/Balastrong/blog/issues/1) in [Balastrong/blog](https://github.com/Balastrong/blog)
+3. ❗️ Closed issue [#3](https://github.com/Balastrong/blog/issues/3) in [Balastrong/blog](https://github.com/Balastrong/blog)
+4. 🎉 Merged PR [#19](https://github.com/Balastrong/trello-card-numbers-plus/pull/19) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+5. 💪 Opened PR [#19](https://github.com/Balastrong/trello-card-numbers-plus/pull/19) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
 
 <!--END_SECTION:activity-->
 <br/>
