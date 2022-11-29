@@ -52,11 +52,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Reopened issue [#11](https://github.com/Balastrong/blog/issues/11) in [Balastrong/blog](https://github.com/Balastrong/blog)
-2. ❗️ Closed issue [#7](https://github.com/Balastrong/blog/issues/7) in [Balastrong/blog](https://github.com/Balastrong/blog)
-3. ❗️ Closed issue [#11](https://github.com/Balastrong/blog/issues/11) in [Balastrong/blog](https://github.com/Balastrong/blog)
-4. 🗣 Commented on [#21](https://github.com/Balastrong/trello-card-numbers-plus/issues/21) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-5. ❗️ Closed issue [#18](https://github.com/Balastrong/trello-card-numbers-plus/issues/18) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+1. 💪 Opened PR [#2289](https://github.com/EddieHubCommunity/LinkFree/pull/2289) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#2288](https://github.com/EddieHubCommunity/LinkFree/issues/2288) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. ❗️ Opened issue [#2288](https://github.com/EddieHubCommunity/LinkFree/issues/2288) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. ❗️ Reopened issue [#11](https://github.com/Balastrong/blog/issues/11) in [Balastrong/blog](https://github.com/Balastrong/blog)
+5. ❗️ Closed issue [#7](https://github.com/Balastrong/blog/issues/7) in [Balastrong/blog](https://github.com/Balastrong/blog)
 
 <!--END_SECTION:activity-->
 <br/>
