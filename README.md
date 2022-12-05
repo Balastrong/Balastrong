@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#24](https://github.com/Balastrong/trello-card-numbers-plus/issues/24) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-2. ❗️ Opened issue [#23](https://github.com/Balastrong/trello-card-numbers-plus/issues/23) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-3. ❗️ Closed issue [#21](https://github.com/Balastrong/trello-card-numbers-plus/issues/21) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-4. 🎉 Merged PR [#22](https://github.com/Balastrong/trello-card-numbers-plus/pull/22) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-5. 💪 Opened PR [#22](https://github.com/Balastrong/trello-card-numbers-plus/pull/22) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+1. 💪 Opened PR [#2](https://github.com/Balastrong/Balastrong/pull/2) in [Balastrong/Balastrong](https://github.com/Balastrong/Balastrong)
+2. ❗️ Opened issue [#24](https://github.com/Balastrong/trello-card-numbers-plus/issues/24) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+3. ❗️ Opened issue [#23](https://github.com/Balastrong/trello-card-numbers-plus/issues/23) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+4. ❗️ Closed issue [#21](https://github.com/Balastrong/trello-card-numbers-plus/issues/21) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+5. 🎉 Merged PR [#22](https://github.com/Balastrong/trello-card-numbers-plus/pull/22) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
 
 <!--END_SECTION:activity-->
 <br/>
