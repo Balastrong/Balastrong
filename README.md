@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-2. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-3. ❗️ Closed issue [#2288](https://github.com/EddieHubCommunity/LinkFree/issues/2288) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#2288](https://github.com/EddieHubCommunity/LinkFree/issues/2288) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. 🗣 Commented on [#2336](https://github.com/EddieHubCommunity/LinkFree/issues/2336) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. 🗣 Commented on [#4](https://github.com/sindresorhus/decamelize-keys/issues/4) in [sindresorhus/decamelize-keys](https://github.com/sindresorhus/decamelize-keys)
+2. 💪 Opened PR [#115](https://github.com/Schrodinger-Hat/osday-2023/pull/115) in [Schrodinger-Hat/osday-2023](https://github.com/Schrodinger-Hat/osday-2023)
+3. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+4. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+5. ❗️ Closed issue [#2288](https://github.com/EddieHubCommunity/LinkFree/issues/2288) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 
 <!--END_SECTION:activity-->
 <br/>
