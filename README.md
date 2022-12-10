@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-2. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+1. ❗️ Opened issue [#117](https://github.com/Schrodinger-Hat/osday-2023/issues/117) in [Schrodinger-Hat/osday-2023](https://github.com/Schrodinger-Hat/osday-2023)
+2. 🗣 Commented on [#115](https://github.com/Schrodinger-Hat/osday-2023/issues/115) in [Schrodinger-Hat/osday-2023](https://github.com/Schrodinger-Hat/osday-2023)
 3. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-4. 🎉 Merged PR [#27](https://github.com/Balastrong/trello-card-numbers-plus/pull/27) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-5. 💪 Opened PR [#27](https://github.com/Balastrong/trello-card-numbers-plus/pull/27) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+4. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+5. 🗣 Commented on [#25](https://github.com/Balastrong/trello-card-numbers-plus/issues/25) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
 
 <!--END_SECTION:activity-->
 <br/>
