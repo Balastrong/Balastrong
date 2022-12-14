@@ -51,10 +51,10 @@ Let's stay in touch!
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#162611](https://github.com/microsoft/vscode/issues/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Closed issue [#3](https://github.com/Balastrong/trello-card-numbers-plus/issues/3) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-3. 🎉 Merged PR [#28](https://github.com/Balastrong/trello-card-numbers-plus/pull/28) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
-4. 💪 Opened PR [#118](https://github.com/Schrodinger-Hat/osday-2023/pull/118) in [Schrodinger-Hat/osday-2023](https://github.com/Schrodinger-Hat/osday-2023)
-5. ❗️ Opened issue [#117](https://github.com/Schrodinger-Hat/osday-2023/issues/117) in [Schrodinger-Hat/osday-2023](https://github.com/Schrodinger-Hat/osday-2023)
+2. 🗣 Commented on [#162611](https://github.com/microsoft/vscode/issues/162611) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Closed issue [#3](https://github.com/Balastrong/trello-card-numbers-plus/issues/3) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+4. 🎉 Merged PR [#28](https://github.com/Balastrong/trello-card-numbers-plus/pull/28) in [Balastrong/trello-card-numbers-plus](https://github.com/Balastrong/trello-card-numbers-plus)
+5. 💪 Opened PR [#118](https://github.com/Schrodinger-Hat/osday-2023/pull/118) in [Schrodinger-Hat/osday-2023](https://github.com/Schrodinger-Hat/osday-2023)
 
 <!--END_SECTION:activity-->
 <br/>
