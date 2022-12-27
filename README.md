@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![When the take goes WRONG...](https://ytcards.demolab.com/?id=VCfDFPqMDjc&title=When+the+take+goes+WRONG...&lang=en&timestamp=1672142704&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "When the take goes WRONG...")](https://www.youtube.com/watch?v=VCfDFPqMDjc)
 [![When the take goes WRONG...](https://ytcards.demolab.com/?id=9qJC-JeWOfE&title=When+the+take+goes+WRONG...&lang=en&timestamp=1671890165&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=60 "When the take goes WRONG...")](https://www.youtube.com/watch?v=9qJC-JeWOfE)
 [![Run GitHub Actions in local - act LIVE DEMO](https://ytcards.demolab.com/?id=Ugonll0e2Os&title=Run+GitHub+Actions+in+local+-+act+LIVE+DEMO&lang=en&timestamp=1671372007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=525 "Run GitHub Actions in local - act LIVE DEMO")](https://www.youtube.com/watch?v=Ugonll0e2Os)
 [![How to Close a Pull Request - Merge Commit vs Squash vs Rebase on GitHub](https://ytcards.demolab.com/?id=rFRtsiQEJZw&title=How+to+Close+a+Pull+Request+-+Merge+Commit+vs+Squash+vs+Rebase+on+GitHub&lang=en&timestamp=1670850008&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=369 "How to Close a Pull Request - Merge Commit vs Squash vs Rebase on GitHub")](https://www.youtube.com/watch?v=rFRtsiQEJZw)
 [![Can ChatGPT Make a Video about Open Source?](https://ytcards.demolab.com/?id=MAj7d8C5p3o&title=Can+ChatGPT+Make+a+Video+about+Open+Source%3F&lang=en&timestamp=1670414410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=149 "Can ChatGPT Make a Video about Open Source?")](https://www.youtube.com/watch?v=MAj7d8C5p3o)
 [![4 Beginner Friendly Open Source Projects to Contribute before 2023](https://ytcards.demolab.com/?id=_uetV0wZyXM&title=4+Beginner+Friendly+Open+Source+Projects+to+Contribute+before+2023&lang=en&timestamp=1669816809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=317 "4 Beginner Friendly Open Source Projects to Contribute before 2023")](https://www.youtube.com/watch?v=_uetV0wZyXM)
-[![Resolve Merge Conflict in Visual Studio Code](https://ytcards.demolab.com/?id=lz5OuKzvadQ&title=Resolve+Merge+Conflict+in+Visual+Studio+Code&lang=en&timestamp=1669125607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=398 "Resolve Merge Conflict in Visual Studio Code")](https://www.youtube.com/watch?v=lz5OuKzvadQ)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
