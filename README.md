@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#6210](https://github.com/EddieHubCommunity/support/issues/6210) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Opened issue [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. ❗️ Opened issue [#3](https://github.com/Balastrong/close-tabs/issues/3) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. ❗️ Opened issue [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-5. ❗️ Opened issue [#1](https://github.com/Balastrong/close-tabs/issues/1) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 🗣 Commented on [#1531](https://github.com/remotion-dev/remotion/issues/1531) in [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
+2. 🎉 Merged PR [#1](https://github.com/Balastrong/github-actions-video/pull/1) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+3. 💪 Opened PR [#1](https://github.com/Balastrong/github-actions-video/pull/1) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+4. ❗️ Opened issue [#6210](https://github.com/EddieHubCommunity/support/issues/6210) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
