@@ -66,21 +66,21 @@ Let's stay in touch!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1215 | 895 | 1115 |
+| Current | 1215 | 854 | 1115 |
 | Best | 1318 | 1345 | 1267 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **Balastrong** | Nearlythere4 | win 🥇 | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/1pp2ppp/p1p5/8/3Nn3/2N5/PPPP1PPP/R1BQK2R b KQkq -">Link</a> | Blitz |
+| **Balastrong** | JDANIEL06 | timeout ❌ | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/8/1P6/k6P/8/6K1/8/1R6 w - -">Link</a> | Blitz |
+| **Balastrong** | BlakHack | timeout ❌ | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/4Kbk1/p4p2/r2B4/7P/8 w - -">Link</a> | Blitz |
+| BlakHack | **Balastrong** | resigned ❌ | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/2p1bp1p/p1Q3p1/2P1p1P1/4P2P/1P3N2/PB6/2R1K2R b K -">Link</a> | Blitz |
+| **Balastrong** | BlakHack | win 🥇 | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1PP5/1K4pp/6P1/5P2/P7/7P/8 b - -">Link</a> | Blitz |
+| BlakHack | **Balastrong** | resigned ❌ | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p1pR3p/1p2p1p1/4P3/2B5/2P5/P5Q1/1K6 b - -">Link</a> | Blitz |
+| **Balastrong** | BlakHack | checkmated ❌ | 4/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6Q/1pk1P3/2p5/1P6/P7/2P3PP/q6K w - -">Link</a> | Blitz |
 | **Balastrong** | Clashking123 | checkmated ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p5/1p6/1Pb1B2p/P7/6p1/7r/4R2K w - -">Link</a> | Blitz |
 | carlitodeliz | **Balastrong** | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4r1/8/p4p1N/2p4P/6k1/1P1P1b2/P1P5/2K2R1R b - -">Link</a> | Blitz |
 | johanjessan | **Balastrong** | win 🥇 | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp1qpp1/3p1n1p/4p3/2B1P3/4Q3/PPn2PPP/RN3RK1 w - -">Link</a> | Blitz |
-| bparis4542 | **Balastrong** | win 🥇 | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k1p2/3p3p/2pP2p1/3b3P/1P4B1/1r3PP1/2R3K1 w - -">Link</a> | Blitz |
-| fouadkg | **Balastrong** | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/p1pq1ppp/1p1p1n2/nB1P4/1Q2P3/2N4N/PP3PPP/R1B1K2R b KQkq -">Link</a> | Blitz |
-| **Balastrong** | Fermuniz13 | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1bnr/pkp1pppp/4q3/8/3P4/4NN2/PP3PPP/R1B1K2R w KQ -">Link</a> | Blitz |
-| **Balastrong** | cafer55 | checkmated ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1p6/1P5p/4kbq1/7K/8 w - -">Link</a> | Blitz |
-| **Balastrong** | Glitch_gram | resigned ❌ | 27/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kb3R/4pB2/3pP1N1/3n4/7P/2p2PPK/1r6 b - -">Link</a> | Blitz |
-| **Balastrong** | YellowPyro | timeout ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P2R4/4R1K1/8/5P2/4P3/4k3/6r1 w - -">Link</a> | Bullet |
-| Liebreartillera | **Balastrong** | checkmated ❌ | 22/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/1ppqn1Qp/3b3P/6p1/2P2P2/p3P3/3N4/R3K2R b KQ -">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
