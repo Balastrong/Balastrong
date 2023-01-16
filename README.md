@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3516](https://github.com/EddieHubCommunity/LinkFree/pull/3516) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#145788](https://github.com/microsoft/vscode/issues/145788) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#1531](https://github.com/remotion-dev/remotion/issues/1531) in [remotion-dev/remotion](https://github.com/remotion-dev/remotion)
-4. 🎉 Merged PR [#1](https://github.com/Balastrong/github-actions-video/pull/1) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
-5. 💪 Opened PR [#1](https://github.com/Balastrong/github-actions-video/pull/1) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+1. 💪 Opened PR [#3537](https://github.com/EddieHubCommunity/LinkFree/pull/3537) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. ❌ Closed PR [#3516](https://github.com/EddieHubCommunity/LinkFree/pull/3516) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+3. 🗣 Commented on [#3516](https://github.com/EddieHubCommunity/LinkFree/issues/3516) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 💪 Opened PR [#3516](https://github.com/EddieHubCommunity/LinkFree/pull/3516) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+5. 🗣 Commented on [#145788](https://github.com/microsoft/vscode/issues/145788) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 <br/>
