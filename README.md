@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![100% Code Coverage means NOTHING](https://ytcards.demolab.com/?id=WxoSoxVgyUw&title=100%25+Code+Coverage+means+NOTHING&lang=en&timestamp=1675878328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=344 "100% Code Coverage means NOTHING")](https://www.youtube.com/watch?v=WxoSoxVgyUw)
 [![I received the Hacktoberfest 2022 Swags!](https://ytcards.demolab.com/?id=9oQqdmtmvIc&title=I+received+the+Hacktoberfest+2022+Swags%21&lang=en&timestamp=1675770099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=30 "I received the Hacktoberfest 2022 Swags!")](https://www.youtube.com/watch?v=9oQqdmtmvIc)
 [![GitHub Profile Update!](https://ytcards.demolab.com/?id=FygYrG4GnRU&title=GitHub+Profile+Update%21&lang=en&timestamp=1675369009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=13 "GitHub Profile Update!")](https://www.youtube.com/watch?v=FygYrG4GnRU)
 [![Get AI Autocomplete on Terminal](https://ytcards.demolab.com/?id=HNVB9Dro2S4&title=Get+AI+Autocomplete+on+Terminal&lang=en&timestamp=1675270821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=340 "Get AI Autocomplete on Terminal")](https://www.youtube.com/watch?v=HNVB9Dro2S4)
 [![Move Commits Between Branches in Git](https://ytcards.demolab.com/?id=0pzFGXvemvA&title=Move+Commits+Between+Branches+in+Git&lang=en&timestamp=1674657000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=451 "Move Commits Between Branches in Git")](https://www.youtube.com/watch?v=0pzFGXvemvA)
 [![Is THIS the Future of Copilot? Code with your Voice with "Hey, GItHub"!](https://ytcards.demolab.com/?id=s_WMdytCvdI&title=Is+THIS+the+Future+of+Copilot%3F+Code+with+your+Voice+with+%22Hey%2C+GItHub%22%21&lang=en&timestamp=1674225643&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=385 "Is THIS the Future of Copilot? Code with your Voice with \"Hey, GItHub\"!")](https://www.youtube.com/watch?v=s_WMdytCvdI)
-[![Merge Commit, Squash or Rebase? Closing a Pull Request](https://ytcards.demolab.com/?id=Arvpaap1ikI&title=Merge+Commit%2C+Squash+or+Rebase%3F+Closing+a+Pull+Request&lang=en&timestamp=1674149201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=47 "Merge Commit, Squash or Rebase? Closing a Pull Request")](https://www.youtube.com/watch?v=Arvpaap1ikI)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
