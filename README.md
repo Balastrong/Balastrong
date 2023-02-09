@@ -13,7 +13,7 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![100% Code Coverage means NOTHING](https://ytcards.demolab.com/?id=WxoSoxVgyUw&title=100%25+Code+Coverage+means+NOTHING&lang=en&timestamp=1675878328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=344 "100% Code Coverage means NOTHING")](https://www.youtube.com/watch?v=WxoSoxVgyUw)
+[![100% Code Coverage is A LIE!](https://ytcards.demolab.com/?id=WxoSoxVgyUw&title=100%25+Code+Coverage+is+A+LIE%21&lang=en&timestamp=1675878328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=344 "100% Code Coverage is A LIE!")](https://www.youtube.com/watch?v=WxoSoxVgyUw)
 [![I received the Hacktoberfest 2022 Swags!](https://ytcards.demolab.com/?id=9oQqdmtmvIc&title=I+received+the+Hacktoberfest+2022+Swags%21&lang=en&timestamp=1675770099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=30 "I received the Hacktoberfest 2022 Swags!")](https://www.youtube.com/watch?v=9oQqdmtmvIc)
 [![GitHub Profile Update!](https://ytcards.demolab.com/?id=FygYrG4GnRU&title=GitHub+Profile+Update%21&lang=en&timestamp=1675369009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=13 "GitHub Profile Update!")](https://www.youtube.com/watch?v=FygYrG4GnRU)
 [![Get AI Autocomplete on Terminal](https://ytcards.demolab.com/?id=HNVB9Dro2S4&title=Get+AI+Autocomplete+on+Terminal&lang=en&timestamp=1675270821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=340 "Get AI Autocomplete on Terminal")](https://www.youtube.com/watch?v=HNVB9Dro2S4)
