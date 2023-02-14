@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![AI Autocomplete in your terminal! #ai #terminal #programming](https://ytcards.demolab.com/?id=bgZoaTGTknc&title=AI+Autocomplete+in+your+terminal%21+%23ai+%23terminal+%23programming&lang=en&timestamp=1676366101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=19 "AI Autocomplete in your terminal! #ai #terminal #programming")](https://www.youtube.com/watch?v=bgZoaTGTknc)
 [![Merge Commit vs Squash Merge #git #github #merge #opensource](https://ytcards.demolab.com/?id=Z3ozzFkNznw&title=Merge+Commit+vs+Squash+Merge+%23git+%23github+%23merge+%23opensource&lang=en&timestamp=1676326442&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=16 "Merge Commit vs Squash Merge #git #github #merge #opensource")](https://www.youtube.com/watch?v=Z3ozzFkNznw)
 [![Code Coverage is not enough! #testing #unittesting #programming](https://ytcards.demolab.com/?id=xFuk2dgmE78&title=Code+Coverage+is+not+enough%21+%23testing+%23unittesting+%23programming&lang=en&timestamp=1676114172&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=43 "Code Coverage is not enough! #testing #unittesting #programming")](https://www.youtube.com/watch?v=xFuk2dgmE78)
 [![100% Code Coverage is A LIE!](https://ytcards.demolab.com/?id=WxoSoxVgyUw&title=100%25+Code+Coverage+is+A+LIE%21&lang=en&timestamp=1675878328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=344 "100% Code Coverage is A LIE!")](https://www.youtube.com/watch?v=WxoSoxVgyUw)
 [![I received the Hacktoberfest 2022 Swags!](https://ytcards.demolab.com/?id=9oQqdmtmvIc&title=I+received+the+Hacktoberfest+2022+Swags%21&lang=en&timestamp=1675770099&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=30 "I received the Hacktoberfest 2022 Swags!")](https://www.youtube.com/watch?v=9oQqdmtmvIc)
 [![GitHub Profile Update!](https://ytcards.demolab.com/?id=FygYrG4GnRU&title=GitHub+Profile+Update%21&lang=en&timestamp=1675369009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=13 "GitHub Profile Update!")](https://www.youtube.com/watch?v=FygYrG4GnRU)
-[![Get AI Autocomplete on Terminal](https://ytcards.demolab.com/?id=HNVB9Dro2S4&title=Get+AI+Autocomplete+on+Terminal&lang=en&timestamp=1675270821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=340 "Get AI Autocomplete on Terminal")](https://www.youtube.com/watch?v=HNVB9Dro2S4)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
