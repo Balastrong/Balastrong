@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#58](https://github.com/aiji42/zod-i18n/pull/58) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
-2. 💪 Opened PR [#507](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/507) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com)
-3. 🗣 Commented on [#173791](https://github.com/microsoft/vscode/issues/173791) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#447](https://github.com/open-sauced/hot/issues/447) in [open-sauced/hot](https://github.com/open-sauced/hot)
-5. ❗️ Opened issue [#4648](https://github.com/EddieHubCommunity/LinkFree/issues/4648) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+1. ❗️ Opened issue [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+2. ❗️ Opened issue [#5](https://github.com/Balastrong/close-tabs/issues/5) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+3. 💪 Opened PR [#58](https://github.com/aiji42/zod-i18n/pull/58) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
+4. 💪 Opened PR [#507](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/507) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com)
+5. 🗣 Commented on [#173791](https://github.com/microsoft/vscode/issues/173791) in [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <!--END_SECTION:activity-->
 <br/>
