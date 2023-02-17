@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#58](https://github.com/aiji42/zod-i18n/issues/58) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
-2. ❗️ Opened issue [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. ❗️ Opened issue [#5](https://github.com/Balastrong/close-tabs/issues/5) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. 💪 Opened PR [#58](https://github.com/aiji42/zod-i18n/pull/58) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
-5. 💪 Opened PR [#507](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/pull/507) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com)
+1. ❗️ Closed issue [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+2. 🗣 Commented on [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+3. ❗️ Opened issue [#7](https://github.com/Balastrong/close-tabs/issues/7) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+4. ❗️ Closed issue [#3](https://github.com/Balastrong/close-tabs/issues/3) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+5. 🗣 Commented on [#3](https://github.com/Balastrong/close-tabs/issues/3) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
