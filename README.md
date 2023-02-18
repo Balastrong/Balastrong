@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-2. 🗣 Commented on [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. ❗️ Opened issue [#7](https://github.com/Balastrong/close-tabs/issues/7) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. ❗️ Closed issue [#3](https://github.com/Balastrong/close-tabs/issues/3) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-5. 🗣 Commented on [#3](https://github.com/Balastrong/close-tabs/issues/3) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 🗣 Commented on [#162](https://github.com/qwikifiers/qwik-ui/issues/162) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+2. 💪 Opened PR [#162](https://github.com/qwikifiers/qwik-ui/pull/162) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+3. ❗️ Closed issue [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+4. 🗣 Commented on [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+5. ❗️ Opened issue [#7](https://github.com/Balastrong/close-tabs/issues/7) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
