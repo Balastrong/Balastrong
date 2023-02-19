@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#162](https://github.com/qwikifiers/qwik-ui/issues/162) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-2. 💪 Opened PR [#162](https://github.com/qwikifiers/qwik-ui/pull/162) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-3. ❗️ Closed issue [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. 🗣 Commented on [#6](https://github.com/Balastrong/close-tabs/issues/6) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-5. ❗️ Opened issue [#7](https://github.com/Balastrong/close-tabs/issues/7) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 🗣 Commented on [#167](https://github.com/qwikifiers/qwik-ui/issues/167) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+2. 🗣 Commented on [#168](https://github.com/qwikifiers/qwik-ui/issues/168) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+3. 💪 Opened PR [#62](https://github.com/aiji42/zod-i18n/pull/62) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
+4. 💪 Opened PR [#168](https://github.com/qwikifiers/qwik-ui/pull/168) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+5. ❗️ Opened issue [#167](https://github.com/qwikifiers/qwik-ui/issues/167) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
 
 <!--END_SECTION:activity-->
 <br/>
