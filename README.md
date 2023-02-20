@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#173](https://github.com/qwikifiers/qwik-ui/pull/173) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-2. ❗️ Opened issue [#171](https://github.com/qwikifiers/qwik-ui/issues/171) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-3. 🗣 Commented on [#168](https://github.com/qwikifiers/qwik-ui/issues/168) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-4. 🗣 Commented on [#167](https://github.com/qwikifiers/qwik-ui/issues/167) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-5. 🗣 Commented on [#168](https://github.com/qwikifiers/qwik-ui/issues/168) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+1. ❗️ Opened issue [#3040](https://github.com/BuilderIO/qwik/issues/3040) in [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
+2. 💪 Opened PR [#173](https://github.com/qwikifiers/qwik-ui/pull/173) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+3. ❗️ Opened issue [#171](https://github.com/qwikifiers/qwik-ui/issues/171) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+4. 🗣 Commented on [#168](https://github.com/qwikifiers/qwik-ui/issues/168) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+5. 🗣 Commented on [#167](https://github.com/qwikifiers/qwik-ui/issues/167) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
 
 <!--END_SECTION:activity-->
 <br/>
