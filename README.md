@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#62](https://github.com/aiji42/zod-i18n/issues/62) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
-2. ❗️ Opened issue [#92](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/92) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-3. ❗️ Opened issue [#3040](https://github.com/BuilderIO/qwik/issues/3040) in [BuilderIO/qwik](https://github.com/BuilderIO/qwik)
-4. 💪 Opened PR [#173](https://github.com/qwikifiers/qwik-ui/pull/173) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-5. ❗️ Opened issue [#171](https://github.com/qwikifiers/qwik-ui/issues/171) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+1. 💪 Opened PR [#192](https://github.com/qwikifiers/qwik-ui/pull/192) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+2. 🗣 Commented on [#108](https://github.com/qwikifiers/qwik-ui/issues/108) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+3. ❗️ Opened issue [#191](https://github.com/qwikifiers/qwik-ui/issues/191) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+4. 🗣 Commented on [#62](https://github.com/aiji42/zod-i18n/issues/62) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
+5. ❗️ Opened issue [#92](https://github.com/DenverCoder1/github-readme-youtube-cards/issues/92) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
 
 <!--END_SECTION:activity-->
 <br/>
