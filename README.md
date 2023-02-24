@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#447](https://github.com/open-sauced/hot/issues/447) in [open-sauced/hot](https://github.com/open-sauced/hot)
-2. 💪 Opened PR [#192](https://github.com/qwikifiers/qwik-ui/pull/192) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-3. 🗣 Commented on [#108](https://github.com/qwikifiers/qwik-ui/issues/108) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-4. ❗️ Opened issue [#191](https://github.com/qwikifiers/qwik-ui/issues/191) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-5. 🗣 Commented on [#62](https://github.com/aiji42/zod-i18n/issues/62) in [aiji42/zod-i18n](https://github.com/aiji42/zod-i18n)
+1. 💪 Opened PR [#199](https://github.com/qwikifiers/qwik-ui/pull/199) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+2. 🗣 Commented on [#447](https://github.com/open-sauced/hot/issues/447) in [open-sauced/hot](https://github.com/open-sauced/hot)
+3. 💪 Opened PR [#192](https://github.com/qwikifiers/qwik-ui/pull/192) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+4. 🗣 Commented on [#108](https://github.com/qwikifiers/qwik-ui/issues/108) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+5. ❗️ Opened issue [#191](https://github.com/qwikifiers/qwik-ui/issues/191) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
 
 <!--END_SECTION:activity-->
 <br/>
