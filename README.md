@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#93](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/93) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-2. 💪 Opened PR [#199](https://github.com/qwikifiers/qwik-ui/pull/199) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-3. 🗣 Commented on [#447](https://github.com/open-sauced/hot/issues/447) in [open-sauced/hot](https://github.com/open-sauced/hot)
-4. 💪 Opened PR [#192](https://github.com/qwikifiers/qwik-ui/pull/192) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
-5. 🗣 Commented on [#108](https://github.com/qwikifiers/qwik-ui/issues/108) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+1. 🗣 Commented on [#507](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/507) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com)
+2. 🎉 Merged PR [#1](https://github.com/Balastrong/jupiterbroadcasting.com/pull/1) in [Balastrong/jupiterbroadcasting.com](https://github.com/Balastrong/jupiterbroadcasting.com)
+3. 🗣 Commented on [#1](https://github.com/Balastrong/jupiterbroadcasting.com/issues/1) in [Balastrong/jupiterbroadcasting.com](https://github.com/Balastrong/jupiterbroadcasting.com)
+4. 💪 Opened PR [#93](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/93) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
+5. 💪 Opened PR [#199](https://github.com/qwikifiers/qwik-ui/pull/199) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
 
 <!--END_SECTION:activity-->
 <br/>
