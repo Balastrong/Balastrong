@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#507](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com/issues/507) in [JupiterBroadcasting/jupiterbroadcasting.com](https://github.com/JupiterBroadcasting/jupiterbroadcasting.com)
-2. 🎉 Merged PR [#1](https://github.com/Balastrong/jupiterbroadcasting.com/pull/1) in [Balastrong/jupiterbroadcasting.com](https://github.com/Balastrong/jupiterbroadcasting.com)
-3. 🗣 Commented on [#1](https://github.com/Balastrong/jupiterbroadcasting.com/issues/1) in [Balastrong/jupiterbroadcasting.com](https://github.com/Balastrong/jupiterbroadcasting.com)
-4. 💪 Opened PR [#93](https://github.com/DenverCoder1/github-readme-youtube-cards/pull/93) in [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards)
-5. 💪 Opened PR [#199](https://github.com/qwikifiers/qwik-ui/pull/199) in [qwikifiers/qwik-ui](https://github.com/qwikifiers/qwik-ui)
+1. ❗️ Closed issue [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+2. 🗣 Commented on [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+3. ❗️ Closed issue [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+4. 🗣 Commented on [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+5. ❗️ Opened issue [#8](https://github.com/Balastrong/close-tabs/issues/8) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
