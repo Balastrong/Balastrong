@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-2. 🗣 Commented on [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. ❗️ Closed issue [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. 🗣 Commented on [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-5. ❗️ Opened issue [#8](https://github.com/Balastrong/close-tabs/issues/8) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 💪 Opened PR [#5](https://github.com/santoshyadavdev/GitHubTips/pull/5) in [santoshyadavdev/GitHubTips](https://github.com/santoshyadavdev/GitHubTips)
+2. ❗️ Closed issue [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+3. 🗣 Commented on [#4](https://github.com/Balastrong/close-tabs/issues/4) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+4. ❗️ Closed issue [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+5. 🗣 Commented on [#2](https://github.com/Balastrong/close-tabs/issues/2) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
