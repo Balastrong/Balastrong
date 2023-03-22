@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Create a Pull Request from Visual Studio Code](https://ytcards.demolab.com/?id=Ma67EbIHi64&title=Create+a+Pull+Request+from+Visual+Studio+Code&lang=en&timestamp=1679479220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=299 "Create a Pull Request from Visual Studio Code")](https://www.youtube.com/watch?v=Ma67EbIHi64)
 [![What the FORK are you doing?!](https://ytcards.demolab.com/?id=VbfvQzCoiQc&title=What+the+FORK+are+you+doing%3F%21&lang=en&timestamp=1679302809&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=211 "What the FORK are you doing?!")](https://www.youtube.com/watch?v=VbfvQzCoiQc)
 [![React.js new documentation!](https://ytcards.demolab.com/?id=i2BIJ_Cn14A&title=React.js+new+documentation%21&lang=en&timestamp=1679001086&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=30 "React.js new documentation!")](https://www.youtube.com/watch?v=i2BIJ_Cn14A)
 [![[GitHub UPDATE] Comment entire Files on Pull Requests](https://ytcards.demolab.com/?id=Fo5QNXBmaM8&title=%5BGitHub+UPDATE%5D+Comment+entire+Files+on+Pull+Requests&lang=en&timestamp=1678903206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=24 "[GitHub UPDATE] Comment entire Files on Pull Requests")](https://www.youtube.com/watch?v=Fo5QNXBmaM8)
 [![Do you know Javascript?](https://ytcards.demolab.com/?id=8gGuu9c9miY&title=Do+you+know+Javascript%3F&lang=en&timestamp=1678786203&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=364 "Do you know Javascript?")](https://www.youtube.com/watch?v=8gGuu9c9miY)
 [![Run GitHub Action on demand](https://ytcards.demolab.com/?id=g00DG4OiQZ0&title=Run+GitHub+Action+on+demand&lang=en&timestamp=1678621004&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=39 "Run GitHub Action on demand")](https://www.youtube.com/watch?v=g00DG4OiQZ0)
-[![Generate gitignore in 2 seconds](https://ytcards.demolab.com/?id=bet-UkNrjdY&title=Generate+gitignore+in+2+seconds&lang=en&timestamp=1678379406&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=37 "Generate gitignore in 2 seconds")](https://www.youtube.com/watch?v=bet-UkNrjdY)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
