@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#8](https://github.com/Balastrong/close-tabs/issues/8) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-2. 🗣 Commented on [#8](https://github.com/Balastrong/close-tabs/issues/8) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. 🎉 Merged PR [#10](https://github.com/Balastrong/close-tabs/pull/10) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. ❗️ Opened issue [#4662](https://github.com/microsoft/vscode-pull-request-github/issues/4662) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
-5. ❗️ Closed issue [#7](https://github.com/Balastrong/close-tabs/issues/7) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 🗣 Commented on [#4662](https://github.com/microsoft/vscode-pull-request-github/issues/4662) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+2. 💪 Opened PR [#4695](https://github.com/microsoft/vscode-pull-request-github/pull/4695) in [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github)
+3. ❗️ Closed issue [#8](https://github.com/Balastrong/close-tabs/issues/8) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+4. 🗣 Commented on [#8](https://github.com/Balastrong/close-tabs/issues/8) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+5. 🎉 Merged PR [#10](https://github.com/Balastrong/close-tabs/pull/10) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
