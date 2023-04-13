@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Long numbers in Javascript](https://ytcards.demolab.com/?id=GHIy_TbNhU4&title=Long+numbers+in+Javascript&lang=en&timestamp=1681376410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=23 "Long numbers in Javascript")](https://www.youtube.com/watch?v=GHIy_TbNhU4)
 [![Never Use the WRONG Package Manager Again!](https://ytcards.demolab.com/?id=NiTmtiBgJKI&title=Never+Use+the+WRONG+Package+Manager+Again%21&lang=en&timestamp=1681125313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=246 "Never Use the WRONG Package Manager Again!")](https://www.youtube.com/watch?v=NiTmtiBgJKI)
 [![❌ Never use the WRONG node version again! ❌](https://ytcards.demolab.com/?id=bQ27GyRrVXM&title=%E2%9D%8C+Never+use+the+WRONG+node+version+again%21+%E2%9D%8C&lang=en&timestamp=1680724048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=31 "❌ Never use the WRONG node version again! ❌")](https://www.youtube.com/watch?v=bQ27GyRrVXM)
 [![GitHub Issues on Visual Studio Code [3/3]](https://ytcards.demolab.com/?id=-nfUgBLBTIo&title=GitHub+Issues+on+Visual+Studio+Code+%5B3%2F3%5D&lang=en&timestamp=1680526800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=280 "GitHub Issues on Visual Studio Code [3/3]")](https://www.youtube.com/watch?v=-nfUgBLBTIo)
 [![Do you Know Javascript? [Round 4]](https://ytcards.demolab.com/?id=AWOKwMrD3Iw&title=Do+you+Know+Javascript%3F+%5BRound+4%5D&lang=en&timestamp=1680099300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=46 "Do you Know Javascript? [Round 4]")](https://www.youtube.com/watch?v=AWOKwMrD3Iw)
 [![Do you Know Javascript? [Round 3]](https://ytcards.demolab.com/?id=HmLhxdBZKDY&title=Do+you+Know+Javascript%3F+%5BRound+3%5D&lang=en&timestamp=1680005702&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=32 "Do you Know Javascript? [Round 3]")](https://www.youtube.com/watch?v=HmLhxdBZKDY)
-[![Review a Pull Request from Visual Studio Code [2/3]](https://ytcards.demolab.com/?id=DSl-L6B_Qb4&title=Review+a+Pull+Request+from+Visual+Studio+Code+%5B2%2F3%5D&lang=en&timestamp=1679912101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=333 "Review a Pull Request from Visual Studio Code [2/3]")](https://www.youtube.com/watch?v=DSl-L6B_Qb4)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
