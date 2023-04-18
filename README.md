@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![GitHub / Slash Commands / Part 1](https://ytcards.demolab.com/?id=uIqfcivnIxQ&title=GitHub+%2F+Slash+Commands+%2F+Part+1&lang=en&timestamp=1681788616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "GitHub / Slash Commands / Part 1")](https://www.youtube.com/watch?v=uIqfcivnIxQ)
 [![I QUIT from a TOXIC Workplace for Developers](https://ytcards.demolab.com/?id=R0hPCgPvFuc&title=I+QUIT+from+a+TOXIC+Workplace+for+Developers&lang=en&timestamp=1681714810&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "I QUIT from a TOXIC Workplace for Developers")](https://www.youtube.com/watch?v=R0hPCgPvFuc)
 [![GitHub NEW Slash Commands /](https://ytcards.demolab.com/?id=r3z4sotrQXQ&title=GitHub+NEW+Slash+Commands+%2F&lang=en&timestamp=1681642105&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=123 "GitHub NEW Slash Commands /")](https://www.youtube.com/watch?v=r3z4sotrQXQ)
 [![Long numbers in #javascript](https://ytcards.demolab.com/?id=WC55fUwvAsU&title=Long+numbers+in+%23javascript&lang=en&timestamp=1681488430&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=23 "Long numbers in #javascript")](https://www.youtube.com/watch?v=WC55fUwvAsU)
 [![Long numbers in Javascript](https://ytcards.demolab.com/?id=GHIy_TbNhU4&title=Long+numbers+in+Javascript&lang=en&timestamp=1681376410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=23 "Long numbers in Javascript")](https://www.youtube.com/watch?v=GHIy_TbNhU4)
 [![Never Use the WRONG Package Manager Again!](https://ytcards.demolab.com/?id=NiTmtiBgJKI&title=Never+Use+the+WRONG+Package+Manager+Again%21&lang=en&timestamp=1681125313&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=246 "Never Use the WRONG Package Manager Again!")](https://www.youtube.com/watch?v=NiTmtiBgJKI)
-[![❌ Never use the WRONG node version again! ❌](https://ytcards.demolab.com/?id=bQ27GyRrVXM&title=%E2%9D%8C+Never+use+the+WRONG+node+version+again%21+%E2%9D%8C&lang=en&timestamp=1680724048&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=31 "❌ Never use the WRONG node version again! ❌")](https://www.youtube.com/watch?v=bQ27GyRrVXM)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
