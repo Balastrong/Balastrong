@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![I quit my developer job](https://ytcards.demolab.com/?id=WbNCoFqvgLE&title=I+quit+my+developer+job&lang=en&timestamp=1682606607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=40 "I quit my developer job")](https://www.youtube.com/watch?v=WbNCoFqvgLE)
 [![10 Javascript Challenges - Explained](https://ytcards.demolab.com/?id=wE-6CswAE64&title=10+Javascript+Challenges+-+Explained&lang=en&timestamp=1682343147&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=465 "10 Javascript Challenges - Explained")](https://www.youtube.com/watch?v=wE-6CswAE64)
 [![10 more Javascript Challenges](https://ytcards.demolab.com/?id=79R_ys7a8Aw&title=10+more+Javascript+Challenges&lang=en&timestamp=1682333331&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=239 "10 more Javascript Challenges")](https://www.youtube.com/watch?v=79R_ys7a8Aw)
 [![GitHub / Slash Commands / Part 3](https://ytcards.demolab.com/?id=-cxTFVdNBe8&title=GitHub+%2F+Slash+Commands+%2F+Part+3&lang=en&timestamp=1682090100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=31 "GitHub / Slash Commands / Part 3")](https://www.youtube.com/watch?v=-cxTFVdNBe8)
 [![Open Source Community: Schrödinger Hat](https://ytcards.demolab.com/?id=volU9QxiWgg&title=Open+Source+Community%3A+Schr%C3%B6dinger+Hat&lang=en&timestamp=1681974017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=124 "Open Source Community: Schrödinger Hat")](https://www.youtube.com/watch?v=volU9QxiWgg)
 [![GitHub / Slash Commands / Part 2](https://ytcards.demolab.com/?id=jCGiQIBs924&title=GitHub+%2F+Slash+Commands+%2F+Part+2&lang=en&timestamp=1681903823&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=38 "GitHub / Slash Commands / Part 2")](https://www.youtube.com/watch?v=jCGiQIBs924)
-[![GitHub / Slash Commands / Part 1](https://ytcards.demolab.com/?id=uIqfcivnIxQ&title=GitHub+%2F+Slash+Commands+%2F+Part+1&lang=en&timestamp=1681788616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "GitHub / Slash Commands / Part 1")](https://www.youtube.com/watch?v=uIqfcivnIxQ)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
