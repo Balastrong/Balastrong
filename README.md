@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
-2. 🗣 Commented on [#15](https://github.com/Balastrong/close-tabs/issues/15) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. ❗️ Opened issue [#14](https://github.com/Balastrong/close-tabs/issues/14) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. ❗️ Opened issue [#13](https://github.com/Balastrong/close-tabs/issues/13) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-5. ❗️ Opened issue [#12](https://github.com/Balastrong/close-tabs/issues/12) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 💪 Opened PR [#375](https://github.com/oramasearch/orama/pull/375) in [oramasearch/orama](https://github.com/oramasearch/orama)
+2. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
+3. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
+4. 💪 Opened PR [#374](https://github.com/oramasearch/orama/pull/374) in [oramasearch/orama](https://github.com/oramasearch/orama)
+5. ❗️ Opened issue [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
 
 <!--END_SECTION:activity-->
 <br/>
