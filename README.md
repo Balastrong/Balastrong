@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#377](https://github.com/oramasearch/orama/pull/377) in [oramasearch/orama](https://github.com/oramasearch/orama)
-2. 💪 Opened PR [#375](https://github.com/oramasearch/orama/pull/375) in [oramasearch/orama](https://github.com/oramasearch/orama)
-3. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
+1. 🗣 Commented on [#367](https://github.com/oramasearch/orama/issues/367) in [oramasearch/orama](https://github.com/oramasearch/orama)
+2. 💪 Opened PR [#377](https://github.com/oramasearch/orama/pull/377) in [oramasearch/orama](https://github.com/oramasearch/orama)
+3. 💪 Opened PR [#375](https://github.com/oramasearch/orama/pull/375) in [oramasearch/orama](https://github.com/oramasearch/orama)
 4. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
-5. 💪 Opened PR [#374](https://github.com/oramasearch/orama/pull/374) in [oramasearch/orama](https://github.com/oramasearch/orama)
+5. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
 
 <!--END_SECTION:activity-->
 <br/>
