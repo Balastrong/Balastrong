@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Automated Tests can make you Code Quicker?](https://ytcards.demolab.com/?id=hrhblEwtAoU&title=Automated+Tests+can+make+you+Code+Quicker%3F&lang=en&timestamp=1684825216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=547 "Automated Tests can make you Code Quicker?")](https://www.youtube.com/watch?v=hrhblEwtAoU)
 [![Copilot Chat writes Unit Tests for you!](https://ytcards.demolab.com/?id=Psm86eIvmdc&title=Copilot+Chat+writes+Unit+Tests+for+you%21&lang=en&timestamp=1684389608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=483 "Copilot Chat writes Unit Tests for you!")](https://www.youtube.com/watch?v=Psm86eIvmdc)
 [![Full GitHub Contribution Chart!](https://ytcards.demolab.com/?id=KFXZdbDZpfw&title=Full+GitHub+Contribution+Chart%21&lang=en&timestamp=1683804606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=24 "Full GitHub Contribution Chart!")](https://www.youtube.com/watch?v=KFXZdbDZpfw)
 [![Copilot Voice Interrupts my Copilot CLI demo](https://ytcards.demolab.com/?id=38uPvTnpdho&title=Copilot+Voice+Interrupts+my+Copilot+CLI+demo&lang=en&timestamp=1683621002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=20 "Copilot Voice Interrupts my Copilot CLI demo")](https://www.youtube.com/watch?v=38uPvTnpdho)
 [![GitHub Copilot X CLI is your new GIT assistant](https://ytcards.demolab.com/?id=3OE2734U-fs&title=GitHub+Copilot+X+CLI+is+your+new+GIT+assistant&lang=en&timestamp=1683464150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=548 "GitHub Copilot X CLI is your new GIT assistant")](https://www.youtube.com/watch?v=3OE2734U-fs)
 [![Using GitHub Copilot X CLI to reorganize my personal website](https://ytcards.demolab.com/?id=AKxaoupEBv4&title=Using+GitHub+Copilot+X+CLI+to+reorganize+my+personal+website&lang=en&timestamp=1682930955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=407 "Using GitHub Copilot X CLI to reorganize my personal website")](https://www.youtube.com/watch?v=AKxaoupEBv4)
-[![I quit my developer job](https://ytcards.demolab.com/?id=WbNCoFqvgLE&title=I+quit+my+developer+job&lang=en&timestamp=1682606607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=40 "I quit my developer job")](https://www.youtube.com/watch?v=WbNCoFqvgLE)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
