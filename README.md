@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#367](https://github.com/oramasearch/orama/issues/367) in [oramasearch/orama](https://github.com/oramasearch/orama)
-2. 💪 Opened PR [#377](https://github.com/oramasearch/orama/pull/377) in [oramasearch/orama](https://github.com/oramasearch/orama)
-3. 💪 Opened PR [#375](https://github.com/oramasearch/orama/pull/375) in [oramasearch/orama](https://github.com/oramasearch/orama)
-4. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
-5. 🗣 Commented on [#366](https://github.com/oramasearch/orama/issues/366) in [oramasearch/orama](https://github.com/oramasearch/orama)
+1. 💪 Opened PR [#3](https://github.com/Balastrong/github-typescript-action-test/pull/3) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
+2. ❌ Closed PR [#2](https://github.com/Balastrong/github-typescript-action-test/pull/2) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
+3. ❌ Closed PR [#1](https://github.com/Balastrong/github-typescript-action-test/pull/1) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
+4. ❌ Reopened PR [#2](https://github.com/Balastrong/github-typescript-action-test/pull/2) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
+5. ❌ Closed PR [#2](https://github.com/Balastrong/github-typescript-action-test/pull/2) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
 
 <!--END_SECTION:activity-->
 <br/>
