@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/Balastrong/github-typescript-action-test/pull/3) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
-2. ❌ Closed PR [#2](https://github.com/Balastrong/github-typescript-action-test/pull/2) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
-3. ❌ Closed PR [#1](https://github.com/Balastrong/github-typescript-action-test/pull/1) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
-4. ❌ Reopened PR [#2](https://github.com/Balastrong/github-typescript-action-test/pull/2) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
-5. ❌ Closed PR [#2](https://github.com/Balastrong/github-typescript-action-test/pull/2) in [Balastrong/github-typescript-action-test](https://github.com/Balastrong/github-typescript-action-test)
+1. ❌ Reopened PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+2. ❌ Closed PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+3. ❌ Reopened PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+4. ❌ Closed PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+5. ❌ Reopened PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
 
 <!--END_SECTION:activity-->
 <br/>
