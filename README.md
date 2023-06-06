@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❌ Reopened PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
-2. ❌ Closed PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
-3. ❌ Reopened PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
-4. ❌ Closed PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
-5. ❌ Reopened PR [#2](https://github.com/Balastrong/github-actions-video/pull/2) in [Balastrong/github-actions-video](https://github.com/Balastrong/github-actions-video)
+1. 🚀 Published release [First release!](https://github.com/First release!) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
+2. ❌ Reopened PR [#1](https://github.com/Balastrong/ga-label-issue/pull/1) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
+3. ❌ Closed PR [#1](https://github.com/Balastrong/ga-label-issue/pull/1) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
+4. ❌ Closed PR [#2](https://github.com/Balastrong/ga-label-issue/pull/2) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
+5. 💪 Opened PR [#2](https://github.com/Balastrong/ga-label-issue/pull/2) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
 
 <!--END_SECTION:activity-->
 <br/>
