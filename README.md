@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Create and Publish a GitHub Action in Typescript - FULL COURSE](https://ytcards.demolab.com/?id=N26xgQ7kLKo&title=Create+and+Publish+a+GitHub+Action+in+Typescript+-+FULL+COURSE&lang=en&timestamp=1686162204&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1825 "Create and Publish a GitHub Action in Typescript - FULL COURSE")](https://www.youtube.com/watch?v=N26xgQ7kLKo)
 [![Astro Coding Session: "Series" feature on my blog](https://ytcards.demolab.com/?id=P99L9DLh6gg&title=Astro+Coding+Session%3A+%22Series%22+feature+on+my+blog&lang=en&timestamp=1685959215&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=650 "Astro Coding Session: \"Series\" feature on my blog")](https://www.youtube.com/watch?v=P99L9DLh6gg)
 [![Warp or Fig? Enhancing your terminal experience](https://ytcards.demolab.com/?id=GHKy8cTg1kA&title=Warp+or+Fig%3F+Enhancing+your+terminal+experience&lang=en&timestamp=1685516411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=826 "Warp or Fig? Enhancing your terminal experience")](https://www.youtube.com/watch?v=GHKy8cTg1kA)
 [![When Unit Testing goes wrong...](https://ytcards.demolab.com/?id=kLhY4fHSwsc&title=When+Unit+Testing+goes+wrong...&lang=en&timestamp=1685179328&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=16 "When Unit Testing goes wrong...")](https://www.youtube.com/watch?v=kLhY4fHSwsc)
 [![Writing Tests: How to Convince your PM/Client](https://ytcards.demolab.com/?id=hrhblEwtAoU&title=Writing+Tests%3A+How+to+Convince+your+PM%2FClient&lang=en&timestamp=1684825216&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=547 "Writing Tests: How to Convince your PM/Client")](https://www.youtube.com/watch?v=hrhblEwtAoU)
 [![Copilot Chat writes Unit Tests for you!](https://ytcards.demolab.com/?id=Psm86eIvmdc&title=Copilot+Chat+writes+Unit+Tests+for+you%21&lang=en&timestamp=1684389608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=483 "Copilot Chat writes Unit Tests for you!")](https://www.youtube.com/watch?v=Psm86eIvmdc)
-[![Full GitHub Contribution Chart!](https://ytcards.demolab.com/?id=KFXZdbDZpfw&title=Full+GitHub+Contribution+Chart%21&lang=en&timestamp=1683804606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=24 "Full GitHub Contribution Chart!")](https://www.youtube.com/watch?v=KFXZdbDZpfw)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
