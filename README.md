@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [First release!](https://github.com/First release!) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
-2. ❌ Reopened PR [#1](https://github.com/Balastrong/ga-label-issue/pull/1) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
-3. ❌ Closed PR [#1](https://github.com/Balastrong/ga-label-issue/pull/1) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
-4. ❌ Closed PR [#2](https://github.com/Balastrong/ga-label-issue/pull/2) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
-5. 💪 Opened PR [#2](https://github.com/Balastrong/ga-label-issue/pull/2) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
+1. 🚀 Published release [Version 2.0.1](https://github.com/Version 2.0.1) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+2. 🎉 Merged PR [#21](https://github.com/Balastrong/chess-stats-action/pull/21) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+3. 💪 Opened PR [#21](https://github.com/Balastrong/chess-stats-action/pull/21) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+4. 🚀 Published release [First release!](https://github.com/First release!) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
+5. ❌ Reopened PR [#1](https://github.com/Balastrong/ga-label-issue/pull/1) in [Balastrong/ga-label-issue](https://github.com/Balastrong/ga-label-issue)
 
 <!--END_SECTION:activity-->
 <br/>
