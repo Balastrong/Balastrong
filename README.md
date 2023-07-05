@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/Balastrong/close-tabs/pull/16) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-2. 💪 Opened PR [#16](https://github.com/Balastrong/close-tabs/pull/16) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-3. 🚀 Published release [Version 2.0.1](https://github.com/Version 2.0.1) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-4. 🎉 Merged PR [#21](https://github.com/Balastrong/chess-stats-action/pull/21) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
-5. 💪 Opened PR [#21](https://github.com/Balastrong/chess-stats-action/pull/21) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
+1. 🔒 Closed issue [#1](https://github.com/Balastrong/blog-astro/issues/1) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
+2. ❗ Opened issue [#1](https://github.com/Balastrong/blog-astro/issues/1) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
+3. 🎉 Merged PR [#16](https://github.com/Balastrong/close-tabs/pull/16) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+4. 💪 Opened PR [#16](https://github.com/Balastrong/close-tabs/pull/16) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+5. 🚀 Published release [Version 2.0.1](https://github.com/Version 2.0.1) in [Balastrong/chess-stats-action](https://github.com/Balastrong/chess-stats-action)
 
 <!--END_SECTION:activity-->
 <br/>
