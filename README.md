@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15](https://github.com/Balastrong/close-tabs/issues/15#issuecomment-1646602238) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-2. ❗ Opened issue [#188572](https://github.com/microsoft/vscode/issues/188572) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#3](https://github.com/AnthonyBorton/copilotx/issues/3) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
-4. ❌ Closed PR [#20](https://github.com/Balastrong/wrand/pull/20) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
-5. 🔒 Closed issue [#1](https://github.com/Balastrong/blog-astro/issues/1) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
+1. ❗ Opened issue [#17](https://github.com/Balastrong/close-tabs/issues/17) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+2. 🗣 Commented on [#15](https://github.com/Balastrong/close-tabs/issues/15#issuecomment-1646602238) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+3. ❗ Opened issue [#188572](https://github.com/microsoft/vscode/issues/188572) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#3](https://github.com/AnthonyBorton/copilotx/issues/3) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
+5. ❌ Closed PR [#20](https://github.com/Balastrong/wrand/pull/20) in [Balastrong/wrand](https://github.com/Balastrong/wrand)
 
 <!--END_SECTION:activity-->
 <br/>
