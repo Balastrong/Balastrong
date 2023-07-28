@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/AnthonyBorton/copilotx/issues/3#issuecomment-1648257338) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
-2. 💪 Opened PR [#4](https://github.com/AnthonyBorton/copilotx/pull/4) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
-3. ❗ Opened issue [#17](https://github.com/Balastrong/close-tabs/issues/17) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-4. 🗣 Commented on [#15](https://github.com/Balastrong/close-tabs/issues/15#issuecomment-1646602238) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
-5. ❗ Opened issue [#188572](https://github.com/microsoft/vscode/issues/188572) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 💪 Opened PR [#96](https://github.com/italia-opensource/awesome-italia-opensource/pull/96) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
+2. 💪 Opened PR [#2](https://github.com/Balastrong/blog-astro/pull/2) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
+3. 🗣 Commented on [#3](https://github.com/AnthonyBorton/copilotx/issues/3#issuecomment-1648257338) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
+4. 💪 Opened PR [#4](https://github.com/AnthonyBorton/copilotx/pull/4) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
+5. ❗ Opened issue [#17](https://github.com/Balastrong/close-tabs/issues/17) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
 
 <!--END_SECTION:activity-->
 <br/>
