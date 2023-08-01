@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Debugging the OLD way?](https://ytcards.demolab.com/?id=t1aEXEvYzvM&title=Debugging+the+OLD+way%3F&lang=en&timestamp=1690880470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=908 "Debugging the OLD way?")](https://www.youtube.com/watch?v=t1aEXEvYzvM)
 [![One Year of Dev YouTube](https://ytcards.demolab.com/?id=sIB31lxkDsI&title=One+Year+of+Dev+YouTube&lang=en&timestamp=1690707635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=128 "One Year of Dev YouTube")](https://www.youtube.com/watch?v=sIB31lxkDsI)
 [![Generate an Entire Project with Copilot - July Update](https://ytcards.demolab.com/?id=b_VLQL00b8Y&title=Generate+an+Entire+Project+with+Copilot+-+July+Update&lang=en&timestamp=1690198205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=634 "Generate an Entire Project with Copilot - July Update")](https://www.youtube.com/watch?v=b_VLQL00b8Y)
 [![Default GitHub Pull Request Merge Strategy](https://ytcards.demolab.com/?id=s7YHLrxxe_Q&title=Default+GitHub+Pull+Request+Merge+Strategy&lang=en&timestamp=1690020409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=37 "Default GitHub Pull Request Merge Strategy")](https://www.youtube.com/watch?v=s7YHLrxxe_Q)
 [![A Message from a Professional Impostor](https://ytcards.demolab.com/?id=xo3DZ_lkW20&title=A+Message+from+a+Professional+Impostor&lang=en&timestamp=1689591649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=528 "A Message from a Professional Impostor")](https://www.youtube.com/watch?v=xo3DZ_lkW20)
 [![😡 How to Trigger a Web Developer](https://ytcards.demolab.com/?id=7BQLIbTNVQw&title=%F0%9F%98%A1+How+to+Trigger+a+Web+Developer&lang=en&timestamp=1689523417&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=45 "😡 How to Trigger a Web Developer")](https://www.youtube.com/watch?v=7BQLIbTNVQw)
-[![Merge Commit, Squash or Rebase? Closing a Pull Request](https://ytcards.demolab.com/?id=Qvr3S48weWs&title=Merge+Commit%2C+Squash+or+Rebase%3F+Closing+a+Pull+Request&lang=en&timestamp=1689254497&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=47 "Merge Commit, Squash or Rebase? Closing a Pull Request")](https://www.youtube.com/watch?v=Qvr3S48weWs)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
