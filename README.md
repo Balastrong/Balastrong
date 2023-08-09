@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#96](https://github.com/italia-opensource/awesome-italia-opensource/pull/96) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
-2. 💪 Opened PR [#2](https://github.com/Balastrong/blog-astro/pull/2) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
-3. 🗣 Commented on [#3](https://github.com/AnthonyBorton/copilotx/issues/3#issuecomment-1648257338) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
-4. 💪 Opened PR [#4](https://github.com/AnthonyBorton/copilotx/pull/4) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
-5. ❗ Opened issue [#17](https://github.com/Balastrong/close-tabs/issues/17) in [Balastrong/close-tabs](https://github.com/Balastrong/close-tabs)
+1. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1670861343) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
+2. 💪 Opened PR [#96](https://github.com/italia-opensource/awesome-italia-opensource/pull/96) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
+3. 💪 Opened PR [#2](https://github.com/Balastrong/blog-astro/pull/2) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
+4. 🗣 Commented on [#3](https://github.com/AnthonyBorton/copilotx/issues/3#issuecomment-1648257338) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
+5. 💪 Opened PR [#4](https://github.com/AnthonyBorton/copilotx/pull/4) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
 
 <!--END_SECTION:activity-->
 <br/>
