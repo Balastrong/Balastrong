@@ -13,12 +13,12 @@ Let's stay in touch!
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Chrome Debugger vs console logs](https://ytcards.demolab.com/?id=rx8G6zQTzsM&title=Chrome+Debugger+vs+console+logs&lang=en&timestamp=1691655304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=59 "Chrome Debugger vs console logs")](https://www.youtube.com/watch?v=rx8G6zQTzsM)
 [![Reference Issues and Pull Request on GitHub](https://ytcards.demolab.com/?id=iaQh60-FDSY&title=Reference+Issues+and+Pull+Request+on+GitHub&lang=en&timestamp=1691498376&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=27 "Reference Issues and Pull Request on GitHub")](https://www.youtube.com/watch?v=iaQh60-FDSY)
 [![Javascript Decimals are Broken?](https://ytcards.demolab.com/?id=EeUXQgm7ic4&title=Javascript+Decimals+are+Broken%3F&lang=en&timestamp=1691324934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=44 "Javascript Decimals are Broken?")](https://www.youtube.com/watch?v=EeUXQgm7ic4)
 [![Chrome Debugger is BETTER than you might think](https://ytcards.demolab.com/?id=t1aEXEvYzvM&title=Chrome+Debugger+is+BETTER+than+you+might+think&lang=en&timestamp=1690880470&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=908 "Chrome Debugger is BETTER than you might think")](https://www.youtube.com/watch?v=t1aEXEvYzvM)
 [![One Year of Dev YouTube](https://ytcards.demolab.com/?id=sIB31lxkDsI&title=One+Year+of+Dev+YouTube&lang=en&timestamp=1690707635&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=128 "One Year of Dev YouTube")](https://www.youtube.com/watch?v=sIB31lxkDsI)
 [![Generate an Entire Project with Copilot - July Update](https://ytcards.demolab.com/?id=b_VLQL00b8Y&title=Generate+an+Entire+Project+with+Copilot+-+July+Update&lang=en&timestamp=1690198205&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=634 "Generate an Entire Project with Copilot - July Update")](https://www.youtube.com/watch?v=b_VLQL00b8Y)
-[![Default GitHub Pull Request Merge Strategy](https://ytcards.demolab.com/?id=s7YHLrxxe_Q&title=Default+GitHub+Pull+Request+Merge+Strategy&lang=en&timestamp=1690020409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=37 "Default GitHub Pull Request Merge Strategy")](https://www.youtube.com/watch?v=s7YHLrxxe_Q)
 <!-- END YOUTUBE-CARDS -->
 
 <br/>
