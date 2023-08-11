@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#33](https://github.com/Il-Libro-Open-Source/book/pull/33) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
-2. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1670861343) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
-3. 💪 Opened PR [#96](https://github.com/italia-opensource/awesome-italia-opensource/pull/96) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
-4. 💪 Opened PR [#2](https://github.com/Balastrong/blog-astro/pull/2) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
-5. 🗣 Commented on [#3](https://github.com/AnthonyBorton/copilotx/issues/3#issuecomment-1648257338) in [AnthonyBorton/copilotx](https://github.com/AnthonyBorton/copilotx)
+1. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1674337704) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
+2. 🗣 Commented on [#33](https://github.com/Il-Libro-Open-Source/book/pull/33#issuecomment-1674327657) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
+3. 💪 Opened PR [#33](https://github.com/Il-Libro-Open-Source/book/pull/33) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
+4. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1670861343) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
+5. 💪 Opened PR [#96](https://github.com/italia-opensource/awesome-italia-opensource/pull/96) in [italia-opensource/awesome-italia-opensource](https://github.com/italia-opensource/awesome-italia-opensource)
 
 <!--END_SECTION:activity-->
 <br/>
