@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#2](https://github.com/Balastrong/blog-astro/pull/2) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
-2. 🗣 Commented on [#2](https://github.com/Balastrong/blog-astro/pull/2#issuecomment-1675829642) in [Balastrong/blog-astro](https://github.com/Balastrong/blog-astro)
-3. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1674965642) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
-4. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1674653154) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
-5. 🗣 Commented on [#31](https://github.com/Il-Libro-Open-Source/book/issues/31#issuecomment-1674337704) in [Il-Libro-Open-Source/book](https://github.com/Il-Libro-Open-Source/book)
+1. ❗ Opened issue [#5](https://github.com/Balastrong/github-stats/issues/5) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+2. ❗ Opened issue [#4](https://github.com/Balastrong/github-stats/issues/4) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+3. ❗ Opened issue [#3](https://github.com/Balastrong/github-stats/issues/3) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+4. ❗ Opened issue [#2](https://github.com/Balastrong/github-stats/issues/2) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+5. ❗ Opened issue [#1](https://github.com/Balastrong/github-stats/issues/1) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
 
 <!--END_SECTION:activity-->
 <br/>
