@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#5](https://github.com/Balastrong/github-stats/issues/5) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-2. ❗ Opened issue [#4](https://github.com/Balastrong/github-stats/issues/4) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-3. ❗ Opened issue [#3](https://github.com/Balastrong/github-stats/issues/3) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-4. ❗ Opened issue [#2](https://github.com/Balastrong/github-stats/issues/2) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-5. ❗ Opened issue [#1](https://github.com/Balastrong/github-stats/issues/1) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+1. ❗ Opened issue [#6](https://github.com/Balastrong/github-stats/issues/6) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+2. ❗ Opened issue [#5](https://github.com/Balastrong/github-stats/issues/5) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+3. ❗ Opened issue [#4](https://github.com/Balastrong/github-stats/issues/4) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+4. ❗ Opened issue [#3](https://github.com/Balastrong/github-stats/issues/3) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+5. ❗ Opened issue [#2](https://github.com/Balastrong/github-stats/issues/2) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
 
 <!--END_SECTION:activity-->
 <br/>
