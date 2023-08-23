@@ -50,11 +50,11 @@ Let's stay in touch!
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#44](https://github.com/Balastrong/github-stats/pull/44#issuecomment-1688467699) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-2. 🗣 Commented on [#38](https://github.com/Balastrong/github-stats/issues/38#issuecomment-1688317009) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-3. 🗣 Commented on [#42](https://github.com/Balastrong/github-stats/issues/42#issuecomment-1688271599) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-4. 🎉 Merged PR [#43](https://github.com/Balastrong/github-stats/pull/43) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
-5. 🗣 Commented on [#36](https://github.com/Balastrong/github-stats/pull/36#issuecomment-1688264198) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+1. 🔒 Closed issue [#17](https://github.com/Balastrong/github-stats/issues/17) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+2. 🎉 Merged PR [#45](https://github.com/Balastrong/github-stats/pull/45) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+3. 🗣 Commented on [#46](https://github.com/Balastrong/github-stats/issues/46#issuecomment-1688718220) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+4. 🗣 Commented on [#42](https://github.com/Balastrong/github-stats/issues/42#issuecomment-1688679864) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
+5. 🗣 Commented on [#44](https://github.com/Balastrong/github-stats/pull/44#issuecomment-1688467699) in [Balastrong/github-stats](https://github.com/Balastrong/github-stats)
 
 <!--END_SECTION:activity-->
 <br/>
