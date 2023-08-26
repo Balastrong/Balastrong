@@ -19,14 +19,12 @@ Let's get in touch! You can find me on:
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 [![Learn Web Development with a Real Project](https://ytcards.demolab.com/?id=ZM92XPdrOTk&title=Learn+Web+Development+with+a+Real+Project&lang=en&timestamp=1692608421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=361 "Learn Web Development with a Real Project")](https://www.youtube.com/watch?v=ZM92XPdrOTk)
 [![GIT Flight Rules to save your repository](https://ytcards.demolab.com/?id=Ikqh2_X1kao&title=GIT+Flight+Rules+to+save+your+repository&lang=en&timestamp=1692445502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "GIT Flight Rules to save your repository")](https://www.youtube.com/watch?v=Ikqh2_X1kao)
 [![Sum an Array in Javascript with reduce](https://ytcards.demolab.com/?id=aUSJM3bDeRY&title=Sum+an+Array+in+Javascript+with+reduce&lang=en&timestamp=1692204300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Sum an Array in Javascript with reduce")](https://www.youtube.com/watch?v=aUSJM3bDeRY)
-[![What's your Developer "Shape"?](https://ytcards.demolab.com/?id=Dje_jaiMnYg&title=What%27s+your+Developer+%22Shape%22%3F&lang=en&timestamp=1692004655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399 (What's your Developer "Shape"?))](https://www.youtube.com/watch?v=Dje_jaiMnYg)
+[![What's your Developer "Shape"?](https://ytcards.demolab.com/?id=Dje_jaiMnYg&title=What%27s+your+Developer+%22Shape%22%3F&lang=en&timestamp=1692004655&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=399 "What's your Developer \"Shape\"?")](https://www.youtube.com/watch?v=Dje_jaiMnYg)
 [![JSON properly visualized on screen](https://ytcards.demolab.com/?id=ckDx6G49P08&title=JSON+properly+visualized+on+screen&lang=en&timestamp=1691836219&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=38 "JSON properly visualized on screen")](https://www.youtube.com/watch?v=ckDx6G49P08)
 [![Chrome Debugger vs console logs](https://ytcards.demolab.com/?id=rx8G6zQTzsM&title=Chrome+Debugger+vs+console+logs&lang=en&timestamp=1691655304&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Chrome Debugger vs console logs")](https://www.youtube.com/watch?v=rx8G6zQTzsM)
-
 <!-- END YOUTUBE-CARDS -->
 
 ## 📕 Top projects I've contributed to
