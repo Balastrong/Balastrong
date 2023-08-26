@@ -1,8 +1,8 @@
 name: Update activity data on README.md
 
 on:
-  schedule:
-    - cron: '0 0,12,19 * * *'
+  # schedule:
+  #   - cron: '0 0,12,19 * * *'
   workflow_dispatch:
 
 jobs:
