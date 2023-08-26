@@ -1,6 +1,6 @@
 ## Hello, Leonardo here 👋
 
-I'm a [π-shaped](https://youtu.be/Dje_jaiMnYg) Frontend Developer, Open Source contributor and content creator.
+I'm a [π-shaped](https://youtu.be/Dje_jaiMnYg) Frontend Developer, Open Source enthusiast and content creator.
 
 I enjoy constantly learning new things and sharing knowledge with others. You can find my content on my [YouTube Channel](https://www.youtube.com/c/DevLeonardo?sub_confirmation=1) and on my [blog](https://leonardomontini.dev).
 
@@ -29,8 +29,6 @@ Let's get in touch! You can find me on:
 
 <!-- END YOUTUBE-CARDS -->
 
-<br/>
-
 ## 📕 Top projects I've contributed to
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
@@ -43,8 +41,6 @@ Let's get in touch! You can find me on:
   <a href="https://github.com/colinhacks/zod"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=colinhacks&repo=zod&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zod"></a>
   <a href="https://github.com/oramasearch/orama"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=oramasearch&repo=orama&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="orama"></a>
 </p>
-
-<br />
 
 ♟️ Are you a Chess player? You should check out [chess-stats-action](https://github.com/Balastrong/chess-stats-action) 😉
 
