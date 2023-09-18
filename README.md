@@ -1,30 +1,30 @@
 ## Hello, Leonardo here 👋
 
-I'm a [π-shaped](https://youtu.be/Dje_jaiMnYg) Frontend Developer, Open Source enthusiast and content creator.
+I'm a [π-shaped](https://youtu.be/Dje_jaiMnYg) Frontend Developer, Open Source enthusiast and content creator. Awarded as [GitHub Star](https://stars.github.com/profiles/Balastrong/) in 2023 🌟
 
-I enjoy constantly learning new things and sharing knowledge with others. You can find my content on my [YouTube Channel](https://www.youtube.com/c/DevLeonardo?sub_confirmation=1) and on my [blog](https://leonardomontini.dev).
+I enjoy constantly learning new skills and sharing knowledge with everyone around me. You can find my content on [YouTube](https://www.youtube.com/c/DevLeonardo?sub_confirmation=1) and [leonardomontini.dev](https://leonardomontini.dev).
 
-I've also been awarded as [GitHub Star](https://stars.github.com/profiles/Balastrong/) in 2023 🌟
-
-Let's get in touch! You can find me on:
+Let's get in touch! Connect with me on:
 
 <div align="left">
-  <a href="https://www.youtube.com/c/DevLeonardo?sub_confirmation=1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /></a>
   <a href="https://twitter.com/Balastrong" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" /></a>
-  <a href="https://discord.gg/bqwyEa6We6" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
   <a href="https://www.linkedin.com/in/leonardo-montini/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://www.youtube.com/c/DevLeonardo?sub_confirmation=1" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo" /></a>
+  <a href="https://discord.gg/bqwyEa6We6" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
   <a href="https://dev.to/balastrong" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" /></a>
 </div>
 
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Your First Valid Pull Request - Hacktoberfest 2023](https://ytcards.demolab.com/?id=Le6VJ8gzvp8&title=Your+First+Valid+Pull+Request+-+Hacktoberfest+2023&lang=en&timestamp=1695034819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=373 "Your First Valid Pull Request - Hacktoberfest 2023")](https://www.youtube.com/watch?v=Le6VJ8gzvp8)
 [![Where's the Hacktoberfest 2023 T-Shirt & Swags?](https://ytcards.demolab.com/?id=4HSk0ny_7Sc&title=Where%27s+the+Hacktoberfest+2023+T-Shirt+%26+Swags%3F&lang=en&timestamp=1694512803&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=307 "Where's the Hacktoberfest 2023 T-Shirt & Swags?")](https://www.youtube.com/watch?v=4HSk0ny_7Sc)
 [![Level up your GitHub Issues](https://ytcards.demolab.com/?id=hNs5Gg_fEEs&title=Level+up+your+GitHub+Issues&lang=en&timestamp=1694013610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=500 "Level up your GitHub Issues")](https://www.youtube.com/watch?v=hNs5Gg_fEEs)
 [![What makes Smart Working Succesful](https://ytcards.demolab.com/?id=LgKQurF2Isk&title=What+makes+Smart+Working+Succesful&lang=en&timestamp=1693209608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=675 "What makes Smart Working Succesful")](https://www.youtube.com/watch?v=LgKQurF2Isk)
 [![Learn Web Development with a Real Project](https://ytcards.demolab.com/?id=ZM92XPdrOTk&title=Learn+Web+Development+with+a+Real+Project&lang=en&timestamp=1692608421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=361 "Learn Web Development with a Real Project")](https://www.youtube.com/watch?v=ZM92XPdrOTk)
 [![GIT Flight Rules to save your repository](https://ytcards.demolab.com/?id=Ikqh2_X1kao&title=GIT+Flight+Rules+to+save+your+repository&lang=en&timestamp=1692445502&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "GIT Flight Rules to save your repository")](https://www.youtube.com/watch?v=Ikqh2_X1kao)
+
 <!-- END YOUTUBE-CARDS -->
 
 ## 📕 Top projects I've contributed to
