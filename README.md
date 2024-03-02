@@ -17,14 +17,12 @@ Let's get in touch! Connect with me on:
 ## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 [![TanStack Router: Path Parameters & Loader](https://ytcards.demolab.com/?id=xUrbLlcrIXY&title=TanStack+Router%3A+Path+Parameters+%26+Loader&lang=en&timestamp=1709035251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457 "TanStack Router: Path Parameters & Loader")](https://www.youtube.com/watch?v=xUrbLlcrIXY)
 [![TanStack Router: Setup & Routing in React](https://ytcards.demolab.com/?id=4sslBg8LprE&title=TanStack+Router%3A+Setup+%26+Routing+in+React&lang=en&timestamp=1708430407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=461 "TanStack Router: Setup & Routing in React")](https://www.youtube.com/watch?v=4sslBg8LprE)
 [![Support Open Source with your Company](https://ytcards.demolab.com/?id=7H3v7PJlY28&title=Support+Open+Source+with+your+Company&lang=en&timestamp=1707998409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=245 "Support Open Source with your Company")](https://www.youtube.com/watch?v=7H3v7PJlY28)
 [![Friendly and Effective Code Reviews](https://ytcards.demolab.com/?id=jT_L9udCGp0&title=Friendly+and+Effective+Code+Reviews&lang=en&timestamp=1707825642&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=486 "Friendly and Effective Code Reviews")](https://www.youtube.com/watch?v=jT_L9udCGp0)
 [![Restore deleted or lost files with git](https://ytcards.demolab.com/?id=TL_t3aOXumo&title=Restore+deleted+or+lost+files+with+git&lang=en&timestamp=1707220822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=276 "Restore deleted or lost files with git")](https://www.youtube.com/watch?v=TL_t3aOXumo)
 [![15 Minutes of Reading Documentation 📖 for 15 Days](https://ytcards.demolab.com/?id=AlmIqcB3OEo&title=15+Minutes+of+Reading+Documentation+%F0%9F%93%96+for+15+Days&lang=en&timestamp=1706616009&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=294 "15 Minutes of Reading Documentation 📖 for 15 Days")](https://www.youtube.com/watch?v=AlmIqcB3OEo)
-
 <!-- END YOUTUBE-CARDS -->
 
 ♟️ Are you a Chess player? You should check out [chess-stats-action](https://github.com/Balastrong/chess-stats-action) 😉
