@@ -14,7 +14,7 @@ Let's get in touch! Connect with me on:
   <a href="https://dev.to/balastrong" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo" /></a>
 </div>
 
-## My latest YouTube videos on my channel [Dev Leonardo](https://www.youtube.com/c/DevLeonardo)
+## My latest YouTube videos [▶️ Dev Leonardo](https://www.youtube.com/@DevLeonardo?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![TanStack Router: Authenticated Routes (Guards)](https://ytcards.demolab.com/?id=O6dS0_IvvK0&title=TanStack+Router%3A+Authenticated+Routes+%28Guards%29&lang=en&timestamp=1710244831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537 "TanStack Router: Authenticated Routes (Guards)")](https://www.youtube.com/watch?v=O6dS0_IvvK0)
