@@ -17,7 +17,12 @@ Let's get in touch! Connect with me on:
 ## My latest YouTube videos [▶️ Dev Leonardo](https://www.youtube.com/@DevLeonardo?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![React, Angular and Vue... all at once!](https://ytcards.demolab.com/?id=4-Gf-MM4AYM&title=React%2C+Angular+and+Vue...+all+at+once%21&lang=en&timestamp=1710849603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=263 "React, Angular and Vue... all at once!")](https://www.youtube.com/watch?v=4-Gf-MM4AYM)
+[![TanStack Router: Authenticated Routes (Guards)](https://ytcards.demolab.com/?id=O6dS0_IvvK0&title=TanStack+Router%3A+Authenticated+Routes+%28Guards%29&lang=en&timestamp=1710244831&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=537 "TanStack Router: Authenticated Routes (Guards)")](https://www.youtube.com/watch?v=O6dS0_IvvK0)
+[![TanStack Router: Query Parameters & Validation](https://ytcards.demolab.com/?id=fE0CeXZF7CY&title=TanStack+Router%3A+Query+Parameters+%26+Validation&lang=en&timestamp=1709640037&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=590 "TanStack Router: Query Parameters & Validation")](https://www.youtube.com/watch?v=fE0CeXZF7CY)
+[![TanStack Router: Path Parameters & Loader](https://ytcards.demolab.com/?id=xUrbLlcrIXY&title=TanStack+Router%3A+Path+Parameters+%26+Loader&lang=en&timestamp=1709035251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=457 "TanStack Router: Path Parameters & Loader")](https://www.youtube.com/watch?v=xUrbLlcrIXY)
+[![TanStack Router: Setup & Routing in React](https://ytcards.demolab.com/?id=4sslBg8LprE&title=TanStack+Router%3A+Setup+%26+Routing+in+React&lang=en&timestamp=1708430407&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=461 "TanStack Router: Setup & Routing in React")](https://www.youtube.com/watch?v=4sslBg8LprE)
+[![Support Open Source with your Company](https://ytcards.demolab.com/?id=7H3v7PJlY28&title=Support+Open+Source+with+your+Company&lang=en&timestamp=1707998409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=245 "Support Open Source with your Company")](https://www.youtube.com/watch?v=7H3v7PJlY28)
 <!-- END YOUTUBE-CARDS -->
 
 ♟️ Are you a Chess player? You should check out [chess-stats-action](https://github.com/Balastrong/chess-stats-action) 😉
