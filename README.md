@@ -1,6 +1,6 @@
 ## Hello, Leonardo here 👋
 
-I'm a [π-shaped](https://youtu.be/Dje_jaiMnYg) Frontend Developer, Open Source enthusiast and content creator. Awarded [GitHub Star 🌟](https://stars.github.com/profiles/Balastrong/) since 2023. Awarded [Microsoft MVP 🔷](https://mvp.microsoft.com/en-US/mvp/profile/51d820c5-949f-4961-aec5-09e34035cb24) since 2024 (Developer Tools, Web Development).
+I'm a [π-shaped](https://youtu.be/Dje_jaiMnYg) Frontend Developer, Open Source maintainer and content creator. Awarded [GitHub Star 🌟](https://stars.github.com/profiles/Balastrong/) (2023 and 2024) and [Microsoft MVP 🔷](https://mvp.microsoft.com/en-US/mvp/profile/51d820c5-949f-4961-aec5-09e34035cb24) (2024) in Developer Tools and Web Development.
 
 I enjoy constantly learning new skills and sharing knowledge with everyone around me. You can find my content on [YouTube](https://www.youtube.com/c/DevLeonardo?sub_confirmation=1) and [leonardomontini.dev](https://leonardomontini.dev).
 
