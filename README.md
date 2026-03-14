@@ -17,7 +17,12 @@ Let's get in touch! Connect with me on:
 ## My latest YouTube videos [▶️ Dev Leonardo](https://www.youtube.com/@DevLeonardo?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![The best tool to stay in Control of your Coding Agent](https://ytcards.demolab.com/?id=c851OpPdNxM&title=The+best+tool+to+stay+in+Control+of+your+Coding+Agent&lang=en&timestamp=1773150479&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=270 "The best tool to stay in Control of your Coding Agent")](https://www.youtube.com/watch?v=c851OpPdNxM)
+[![A Custom Agent to cleanup my git mess](https://ytcards.demolab.com/?id=1SRJ4cYCpa4&title=A+Custom+Agent+to+cleanup+my+git+mess&lang=en&timestamp=1771829100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314 "A Custom Agent to cleanup my git mess")](https://www.youtube.com/watch?v=1SRJ4cYCpa4)
+[![Copilot generates Skills for me now](https://ytcards.demolab.com/?id=dyEpGGSKn6I&title=Copilot+generates+Skills+for+me+now&lang=en&timestamp=1771570835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=249 "Copilot generates Skills for me now")](https://www.youtube.com/watch?v=dyEpGGSKn6I)
+[![I took the GitHub Copilot Certification Exam (GH-300)](https://ytcards.demolab.com/?id=4-v3ubBVsPA&title=I+took+the+GitHub+Copilot+Certification+Exam+%28GH-300%29&lang=en&timestamp=1771072616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=489 "I took the GitHub Copilot Certification Exam (GH-300)")](https://www.youtube.com/watch?v=4-v3ubBVsPA)
+[![TanStack Router: Breadcrumbs](https://ytcards.demolab.com/?id=6vfmfSCcs54&title=TanStack+Router%3A+Breadcrumbs&lang=en&timestamp=1766124011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=535 "TanStack Router: Breadcrumbs")](https://www.youtube.com/watch?v=6vfmfSCcs54)
+[![Using the Chrome MCP Server with Copilot to fix a UI bug](https://ytcards.demolab.com/?id=7M7O-tuAkN8&title=Using+the+Chrome+MCP+Server+with+Copilot+to+fix+a+UI+bug&lang=en&timestamp=1763967606&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=312 "Using the Chrome MCP Server with Copilot to fix a UI bug")](https://www.youtube.com/watch?v=7M7O-tuAkN8)
 <!-- END YOUTUBE-CARDS -->
 
 ♟️ Are you a Chess player? You should check out [chess-stats-action](https://github.com/Balastrong/chess-stats-action) 😉
