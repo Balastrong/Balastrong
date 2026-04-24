@@ -17,7 +17,12 @@ Let's get in touch! Connect with me on:
 ## My latest YouTube videos [▶️ Dev Leonardo](https://www.youtube.com/@DevLeonardo?sub_confirmation=1)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![The skill structure that stops wasting tokens in Copilot](https://ytcards.demolab.com/?id=hTKhLgRcAys&title=The+skill+structure+that+stops+wasting+tokens+in+Copilot&lang=en&timestamp=1774245633&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=343 "The skill structure that stops wasting tokens in Copilot")](https://www.youtube.com/watch?v=hTKhLgRcAys)
+[![AI Hallucinating? Use the AskQuestions Tool](https://ytcards.demolab.com/?id=c851OpPdNxM&title=AI+Hallucinating%3F+Use+the+AskQuestions+Tool&lang=en&timestamp=1773150479&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=270 "AI Hallucinating? Use the AskQuestions Tool")](https://www.youtube.com/watch?v=c851OpPdNxM)
+[![Never Manually Split a Giant Commit Again](https://ytcards.demolab.com/?id=1SRJ4cYCpa4&title=Never+Manually+Split+a+Giant+Commit+Again&lang=en&timestamp=1771829100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=314 "Never Manually Split a Giant Commit Again")](https://www.youtube.com/watch?v=1SRJ4cYCpa4)
+[![Copilot generates Skills for me now](https://ytcards.demolab.com/?id=dyEpGGSKn6I&title=Copilot+generates+Skills+for+me+now&lang=en&timestamp=1771570835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=249 "Copilot generates Skills for me now")](https://www.youtube.com/watch?v=dyEpGGSKn6I)
+[![I took the GitHub Copilot Certification Exam (GH-300)](https://ytcards.demolab.com/?id=4-v3ubBVsPA&title=I+took+the+GitHub+Copilot+Certification+Exam+%28GH-300%29&lang=en&timestamp=1771072616&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=489 "I took the GitHub Copilot Certification Exam (GH-300)")](https://www.youtube.com/watch?v=4-v3ubBVsPA)
+[![TanStack Router: Breadcrumbs](https://ytcards.demolab.com/?id=6vfmfSCcs54&title=TanStack+Router%3A+Breadcrumbs&lang=en&timestamp=1766124011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=535 "TanStack Router: Breadcrumbs")](https://www.youtube.com/watch?v=6vfmfSCcs54)
 <!-- END YOUTUBE-CARDS -->
 
 ♟️ Are you a Chess player? You should check out [chess-stats-action](https://github.com/Balastrong/chess-stats-action) 😉
